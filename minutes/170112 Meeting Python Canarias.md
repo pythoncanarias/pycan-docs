@@ -15,9 +15,7 @@ Acordamos como fecha del evento el **sábado, 11 de marzo**.
 
 Acordamos reutilizar el grupo de telegram **PyGofioTf** que se creó para la coordinación del viaje a la PyCon (Ojo: el PyGofioTf, no confundir con PyBirrasTf, que queda para las pybirras).
 
-Para poder acceder al grupo los que estén interesados el link es:
-    
-https://t.me/joinchat/AAAAAEAkMWfDuYE_aXToBQ
+Para poder acceder al grupo los que estén interesados el link se dejará en el fichero [pythoncanarias.kdbx](https://github.com/pythoncanarias/docs/blob/master/pythoncanarias.kdbx)
 
 La idea es que el grupo no tenga mucho movimiento, y que sirva solo para anunciar hitos y/o datos que interesen a todos. Invitamos a todos a apuntarse al grupo, aun si no quieren participar en la organización, para estar informados.
 
