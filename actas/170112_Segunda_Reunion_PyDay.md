@@ -1,4 +1,4 @@
-# Notas segunda reunión organización PyDay
+# Notas de la segunda reunión para organización del PyDay
 
 Asistentes: Alberto (@amd77), Lucas (@enenNN), Hector (@m0n0b0t),  Juan Ignacio (@Euribates), Victor (@Zerasul), Carlos (@Cargua) y Simone Marín (@simonemarin)
 

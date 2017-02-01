@@ -1,4 +1,4 @@
-# Notas reunión organizacion PyDay
+# Notas de la primera reunión para organización del PyDay
 
 Asistentes: Alberto (``@amd77``), Lucas (``@enenNN``), Hector (``@m0n0b0t``), Jesus
 (``@aplatanado``) y Juan Ignacio (``@Euribates``)
