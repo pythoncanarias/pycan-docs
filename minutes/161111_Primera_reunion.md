@@ -126,6 +126,7 @@ cosas NO imprescindibles**, de forma que una hipotética cancelación a
 ## Personas y organizaciones con las que es interesante contactar
 
 - Carlos Ble
+- Victor Ruiz
 - Paco Almeida
 - Patricio (OSL)
 - Manz (Emezeta)
