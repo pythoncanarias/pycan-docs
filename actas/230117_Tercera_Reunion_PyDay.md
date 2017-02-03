@@ -2,10 +2,10 @@
 
 Asistentes: Alberto (@amd77), Lucas (@enenNN), Hector (@m0n0b0t),  Juan Ignacio (@Euribates), Victor (@Zerasul), Gonzalo (@zalete) y Simone Marín (@simonemarin)
 
-Fecha: 23/1/2017  
-Lugar: Hangar Kreitek  
-Menú: Frutos secos y pizza
-Humnedad relativa del aire: 78%
++ Fecha: 23/1/2017  
++ Lugar: Hangar Kreitek  
++ Menú: Frutos secos y pizza
++ Humedad relativa del aire: 78%
 
 
 ## Número de asistentes
@@ -15,7 +15,7 @@ Se decidió limitar el número de plazas a **60**.
 ## Sobre el destino de los fondos de patrocinio
 
 Acordamos que, para las aportaciones en efectivo, invertiriamos las cantidades
-en las siguientes aspectos, ordenados (más o menos) por prioridad:
+en las siguientes asuntos, ordenados (más o menos) por prioridad:
 
 - **Catering**: En principio 2 coffe-break, para mañana / tarde. Si se
   consiguiera suficiente dinero, veriamos de intentar incluir el almuerzo. El
@@ -48,12 +48,12 @@ Hay que incluir, para cada asistente, la siguiente información:
 
 - DNI
 
-- Si quiere que se le acredite la ssitencia para obtener el Credito ECTS
+- Si quiere que se le acredite la asistencia para obtener el crédito ECTS
 
 - Si padece alguna clase de alergia alimentaria (por el catering)
 
 El DNI solo será necesario para los que que quieran a acreditar la
-sistencia para obtener el crédito ECTS.
+asistencia para obtener el crédito ECTS.
 
 Al terminar el evento, deberemos entregar un listado con los datos
 anteriores a la OSL.
