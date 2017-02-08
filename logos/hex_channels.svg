@@ -15,7 +15,10 @@
    id="svg4352"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="hex_channels.svg">
+   sodipodi:docname="hex_channels.svg"
+   inkscape:export-filename="/home/jileon/workarea/docs/logos/hex_channels.png"
+   inkscape:export-xdpi="153.60001"
+   inkscape:export-ydpi="153.60001">
   <defs
      id="defs4354">
     <filter
@@ -61,8 +64,8 @@
      units="px"
      inkscape:window-width="812"
      inkscape:window-height="761"
-     inkscape:window-x="590"
-     inkscape:window-y="105"
+     inkscape:window-x="253"
+     inkscape:window-y="64"
      inkscape:window-maximized="0"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -91,7 +94,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
