@@ -121,6 +121,7 @@ Contamos con las siguientes personas, como fijas, para ayudar el día del `#pyDa
 - Lucas.
 - Héctor (Kreitek).
 - Jesús OSL.
+- Diego.
 
 Como dudosos, se establecen las siguientes personas:
 
