@@ -198,6 +198,7 @@ Responsable: **Alberto**.
 - Certificado de asistencia (a posteriori). Tanto para asistentes como para ponentes. La *ULL* ó *Python España* podrían firmar electrónicamente los certificados, y luego se enviarían por correo a los asistentes/ponentes.
 - Añadir al programa de la web, la hora del registro y la hora de la presentación. Responsable: **Alberto**.
 - Enviar por correo la guía del asistente y del ponente el día **10 de marzo**. Responsable: **Sergio**
+- Poner en el programa de la web, las salas en las que se celebrará cada track. Responsable: **Alberto**.
 
 ## Fechas destacadas
 
