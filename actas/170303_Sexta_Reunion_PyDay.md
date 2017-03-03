@@ -83,8 +83,6 @@ Responsable: **Sergio**.
     - José Lucas Grillo Lorenzo (P)
     - Jesús Miguel Torres Jorge
     - David Vargas Ruiz
-- Pendientes de respuesta para convertirse en organizadores:
-    - Carlos Guárate
 - Ponentes: 
     - Elena María Marrero Méndez
     - Diego Francisco Concepción
