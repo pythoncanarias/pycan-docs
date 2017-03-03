@@ -81,13 +81,13 @@ Responsable: **Sergio**.
     - Víctor Suárez García (P)
     - Alberto Morales Díaz (P)
     - José Lucas Grillo Lorenzo (P)
-- Pendientes de respuesta para convertirse en organizadores:
     - Jesús Miguel Torres Jorge
+    - David Vargas Ruiz
+- Pendientes de respuesta para convertirse en organizadores:
     - Carlos Guárate
 - Ponentes: 
     - Elena María Marrero Méndez
     - Diego Francisco Concepción
-    - David Vargas Ruiz
     - Héctor Figueras Hernández
     - Sergio Bonaque González
     - Sergio Medina Toledo
