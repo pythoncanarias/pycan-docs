@@ -15,3 +15,4 @@
 - Localidad
 - Código Postal
 - Provincia
+- Número de cuenta bancaria (pago por transferencia)
