@@ -15,6 +15,7 @@ Con este correo queremos hacerte llegar información relevante acerca del desarr
     - Las **charlas avanzadas** serán en la **primera planta**.
 - Es muy importante que también leas [la guía del asistente](http://pythoncanarias.es/pyday/guia_asistente/).
 - Ayúdanos a difundir el evento tuiteando con el hasthag `#pyDayTF`.
+- Si estás interesado/a en **promocionarte a nivel laboral**, envíanos tu *Currículum Vitae* a `info@pythoncanarias.es` y lo haremos llegar a los patrocinadores.
 
 Saludos,  
 Sergio Delgado.
