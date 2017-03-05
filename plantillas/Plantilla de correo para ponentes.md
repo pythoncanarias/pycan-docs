@@ -9,6 +9,7 @@ Con este correo queremos hacerte llegar información relevante acerca del desarr
     - Las **charlas avanzadas** serán en la **primera planta**.
 - Es muy importante que también leas [la guía del ponente](http://pythoncanarias.es/pyday/guia_ponente/).
 - Ayúdanos a difundir el evento tuiteando con el hasthag `#pyDayTF`.
+- [Código de conducta](http://pythoncanarias.es/pyday/codigo_conducta/).
 
 Saludos,  
 Sergio Delgado.
