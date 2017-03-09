@@ -36,6 +36,8 @@ Indícanos si te es problema que la colguemos antes.
 Aunque va a haber internet, te aconsejamos que traigas el contenido de tu
 charla offline, para el caso de que hubiese algún problema de red imprevisto.
 
+Ten en cuenta que la sala es muy grande y deberías poner el código en un tamaño de fuente suficientemente grande. Se ve más claro en texto negro sobre fondo blanco. También se debería de proyectar en resoluciones de menos de 1280px.
+
 ## Evaluación
 
 Los alumnos universitarios que opten a un crédito ECTS deberán hacer los
