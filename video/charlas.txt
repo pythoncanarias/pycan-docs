@@ -1,0 +1,15 @@
+Taller de introducción a Python
+Taller de introducción a Django
+Rendimiento y consumo energético
+Crea tu propio BOT de Telegram
+Control de cámaras
+Fabric: Tareas y despliegues
+Introducción a Jupyter Notebook
+IO Asíncrono con Python
+Matemáticas y Python
+Crear una API REST con Flask
+Micropython: El sílice y la serpiente
+Visión artificial
+Interfaces: kivy y Raspberry Pi
+Programación de videojuegos con Godot Engine
+
