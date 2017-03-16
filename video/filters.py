@@ -9,6 +9,8 @@ from __future__ import absolute_import
 import re
 
 _slugify_mapa = {
+     10: 45,    # Carriage return -> hyphen
+     13: 45,    # Line feed -> hyphen
      32: 45,    # space -> hyphen 
      33: None,  # exclamation mark
      34: None,  # double quotes

@@ -1,0 +1,59 @@
+[
+    { 
+        "titulo": "Taller de introducción a Python",
+        "autor": "Víctor Suárez García", 
+        "filename": "zerasul.png"
+    }, {
+        "titulo": "Introducción a Django",
+        "autor": "Elena María Marrero Méndez", 
+        "filename": "elemarez.png"
+    }, {
+        "titulo": "Introducción a Jupyter Notebook",
+        "autor": "Juan Ignacio Rodríguez de León", 
+        "filename": "jileon.png"
+    }, {
+        "titulo": "Matemáticas y Python",
+        "autor": "Alberto Morales", 
+        "filename": "amd77.jpg"
+    }, {
+        "titulo": "MicroPython: El sílice y la serpiente",
+        "autor": "Lucas Grillo Lorenzo", 
+        "filename": "enen.jpg"
+    }, {
+        "titulo": "Interfaces gráficas y físicas con Kivy + Raspberry Pi",
+        "autor": "Alberto Morales", 
+        "filename": "amd77.jpg"
+    }, {
+        "titulo": "Rendimiento y consumo energético con Python",
+        "autor": "Tomás López-Fragoso Rumeu", 
+        "filename": "tomaslopezfragosorumeu.jpg"
+    }, {
+        "titulo": "Crea tu propio bot de Telegram",
+        "autor": "Héctor Figueras Hernández", 
+        "filename": "torehc.jpg"
+    }, {
+        "titulo": "Control de cámaras",
+        "autor": "Sergio Bonaque González", 
+        "filename": "sergio-bonaque-gonzalez.png"
+    }, {
+        "titulo": "Fabric: Tareas y despliegues",
+        "autor": "Héctor Alvarez", 
+        "filename": "monobot.jpg"
+    }, {
+        "titulo": "Crear una API REST con Flask",
+        "autor": "Diego Francisco Concepción", 
+        "filename": "costular.jpg"
+    }, {
+        "titulo": "I/O asíncrono en Python",
+        "autor": "Sergio Medina", 
+        "filename": "smedina.jpg"
+    }, {
+        "titulo": "Visión artificial con Python",
+        "autor": "Víctor Suárez García", 
+        "filename": "zerasul.png"
+    }, {
+        "titulo": "Desarrollo de videojuegos con Godot Engine",
+        "autor": "David Vargas", 
+        "filename": "david-vargas.jpg"
+    }
+]
