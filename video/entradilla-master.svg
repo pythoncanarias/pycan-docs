@@ -39,8 +39,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="112.58069"
-     inkscape:cy="397.56064"
+     inkscape:cx="-133.84788"
+     inkscape:cy="394.7035"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -107,7 +107,7 @@
      style="display:inline">
     <g
        id="g5888"
-       transform="matrix(0.81611522,0,0,0.81611522,318.19556,85.71493)">
+       transform="matrix(0.81611522,0,0,0.81611522,318.19556,101.71493)">
       <g
          style="fill:#e6e6e6"
          transform="matrix(0.38849918,0,0,0.38849918,50.615284,215.73915)"
@@ -1272,15 +1272,15 @@
          style="font-size:44.38170242px;text-align:center;text-anchor:middle;fill:#f9f9f9">{{titulo}}</flowPara></flowRoot>    <image
        sodipodi:absref="/home/jileon/workarea/docs/video/autor/{{filename}}"
        xlink:href="autor/{{filename}}"
-       transform="translate(279.71429,49.714286)"
-       clip-path="url(#clipPath6905)"
-       width="150"
-       height="150"
-       preserveAspectRatio="none"
-       style="image-rendering:optimizeQuality"
-       id="image6881"
+       y="796.64789"
        x="405"
-       y="796.64789" />
+       id="image6881"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="150"
+       width="150"
+       clip-path="url(#clipPath6905)"
+       transform="translate(279.71429,49.714286)" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot6884"
