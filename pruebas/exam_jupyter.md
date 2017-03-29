@@ -1,21 +1,21 @@
 ## Preguntas Jupyter Notebook
 
-## El nombre de Jupyter viene de
+## El nombre de Jupyter viene de:
 
-    a) El planeta del mismo nombre
-    b) El Dios romano del mismo nombre
-    c) De la combinación de los lenguajes Julia + R + Python
-    d) De la palabra en esperanto para "ambivalente"
+    a) El planeta del mismo nombre.
+    b) El Dios romano del mismo nombre.
+    c) La combinación de los lenguajes Julia + R + Python.
+    d) La palabra en esperanto para "ambivalente".
 
 ## Jupyter se ejecuta sobre un *Kernel* o nucleo; dicho nucleo:
 
-    a) Solo puede ser Java
-    b) Solo puede ser python
-    c) Solo puede ser Julia, Python o R
+    a) Solo puede ser Java.
+    b) Solo puede ser python.
+    c) Solo puede ser Julia, Python o R.
     d) Cualquier lenguaje para el que haya un *kernel*: Python, R, Julia
        y tambien Rust, Javascript, Haskell... Hay muchísimos 
        nucleos de otros lenguajes sobre los que se puede
-       ejecutar
+       ejecutar.
 
 ## Jupiter trabaja con el concepto de documentos o *notebook*, que están constituidos por celdas (*cells*); las celdas pueden ser de los siguiente tipos:
 

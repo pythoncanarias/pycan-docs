@@ -2,20 +2,22 @@
 
 ## En python, para marcar un bloque de código (por ejemplo, para englobar todas las líneas que deben ejecutarse dentro de un bucle) se usa:
 
-    a) Los caracteres { y }
-    b) Las palabras reservadas BEGIN y END
-    c) La indentación del código
-    d) Se pueden usar todas las enteriores
+    a) Los caracteres { y }.
+    b) Las palabras reservadas BEGIN y END.
+    c) La indentación del código.
+    d) Se pueden usar todas las enteriores.
 
-## El siguiente código:
+## El siguiente código
 
     for i in range(21):
         print(i)
 
-    a) Imprime los números del 0 al 20
-    b) Imprime los números del 1 al 20
-    c) Imprime los números del 0 al 21
-    d) Imprime los números del 1 al 21
+al ejecutarse:
+
+    a) Imprime los números del 0 al 20.
+    b) Imprime los números del 1 al 20.
+    c) Imprime los números del 0 al 21.
+    d) Imprime los números del 1 al 21.
 
 ## Para definir una cadena de texto en Python, usamos como delimitadores:
 
