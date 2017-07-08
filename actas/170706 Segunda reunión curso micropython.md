@@ -16,7 +16,7 @@
 - 17 de julio de 2017
 - 18:00h
 
-# Acuerdos sobre el curso
+## Acuerdos sobre el curso
 
 - La entrada para el curso se venderá directamente en [K-Electrónica](http://k-electronica.es/).
 - Su precio será el del "kit" + el margen de ganancia para K-Electrónica.
