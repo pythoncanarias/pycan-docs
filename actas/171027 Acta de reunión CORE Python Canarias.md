@@ -59,7 +59,7 @@
     - Sistemas: "Ansible" por Isra (`@kamaxeon`).
 - La persona de contacto para INCUBE es Carlos Alberto Mendieta Pino.
 - En la sala que utilizaremos de INCUBE caben más de 100 personas, y habrá pantalla gigante y sistema de audio.
-- Queda pendiente confirmar la disponibilidad de WIFI. **Responsable: Juan Ignacio**.
+- <del datetime="2017-10-30T11:18:00Z">Queda pendiente confirmar la disponibilidad de WIFI</del>. **Responsable: Juan Ignacio** (**Ya está confirmado, hay Wifi Abierta**).
 - No habrá ningún problema de aparcamiento.
 - Se acuerda que las charlas tendrán una duración de 35 minutos, más 5 minutos para preguntas. Igualmente habrán 5 minutos de intervalo de preparación entre charla y charla.
 - Se acuerda la siguiente planificación de sesiones:
