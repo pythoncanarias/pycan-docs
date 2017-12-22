@@ -1,0 +1,7 @@
+- Artículo 4 - apartado "D" del decreto.
+- Artículo 6 del decreto.
+- Según el decreto, la junta directiva sólo requiere de presidente y secretario.
+- ¿Libros físicos? Artículo 18 - apartado 2 del decreto. --> mirar artículo 18 apartado 2.
+- Artículo 6 de la ley -> contenido de los estatutos.
+- Declaración de interés público de Canarias -> artículo 76 del decreto.
+- Código de actividad: 1112 CIENCIAS
