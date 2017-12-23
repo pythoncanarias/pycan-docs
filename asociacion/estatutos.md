@@ -4,7 +4,7 @@
 
 ### Artículo 1 - La denominación
 
-De conformidad con el artículo 22 de la Constitución Española se constituye la entidad, no lucrativa, denominada "Asociación Python Canarias", dotada de personalidad jurídica propia y capacidad de obrar y que se regirá por la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de asociación, la Ley 4/2003, de 28 de febrero, de Asociaciones de Canarias, el Decreto 12/2007, de 5 de febrero, por el que se aprueba el Reglamento de Asociaciones de Canarias, demás disposiciones complementarias y por los presentes Estatutos.
+De conformidad con el artículo 22 de la Constitución Española se constituye la entidad, no lucrativa, denominada "Python Canarias", dotada de personalidad jurídica propia y capacidad de obrar y que se regirá por la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de asociación, la Ley 4/2003, de 28 de febrero, de Asociaciones de Canarias, el Decreto 12/2007, de 5 de febrero, por el que se aprueba el Reglamento de Asociaciones de Canarias, demás disposiciones complementarias y por los presentes Estatutos.
 
 ### Artículo 2 - El domicilio social
 
@@ -23,9 +23,10 @@ La duración de la constitución de la asociación será por tiempo indefinido.
 
 Los fines de la asociación serán los siguientes:
 
-a) Promover el uso del lenguaje de programación Python.  
+a) Promover el uso de los lenguajes de programación en general, y de Python en particular.  
 b) Servir como punto de encuentro de todas aquellas personas interesadas en el uso de dicho lenguaje.  
-c) Dar soporte a quienes deseen aprender y desarrollar su uso.
+c) Dar soporte a quienes deseen aprender y desarrollar su uso.  
+d) Promover la programación como una competencia educativa básica.
 
 ### Artículo 5 - Ámbito territorial
 
