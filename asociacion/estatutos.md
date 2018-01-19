@@ -64,6 +64,8 @@ c) Honoríficos/as: Quienes por decisión de la asamblea general colaboren de fo
 
 Los socios fundadores y los socios de número tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
 
+Todos los socios tendrán derecho, como consecuencia del pago de la cuota establecida en el artículo 27 de los presentes estatutos, a un obsequio anual de merchandaising y a descuentos en los eventos organizados por la asociación.
+
 Los socios honoríficos tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias, excepto el derecho a voto mencionado en el artículo 13 apartado a) de la citada ley.
 
 ### Artículo 11 - Obligaciones de los socios
@@ -98,7 +100,7 @@ Son infracciones punibles dentro del orden social y serán consideradas como gra
 
 a) El quebrantamiento de sanciones impuestas por infracciones leves.  
 b) Participar, formular o escribir mediante cualquier medio de comunicación social, manifestaciones que perjudiquen de forma grave la imagen de la asociación.  
-c) La inducción o complicidad, plenamente probada, de cualquier asociado en la comisión de cualquiera de las faltas contempladas como graves.  
+c) La inducción o complicidad, plenamente probada, de cualquier socio en la comisión de cualquiera de las faltas contempladas como graves.  
 d) Todas las infracciones tipificadas como leves y cuyas consecuencias físicas, morales o económicas, plenamente probadas, sean consideradas graves.  
 e) La reiteración de una falta leve.  
 f) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la asociación, cuando se consideren como graves.  
@@ -224,7 +226,7 @@ Los estatutos de la asociación podrán ser modificados cuando resulte convenien
 
 ### Artículo 24 - Patrimonio inicial
 
-La asociación cuenta con un patrimonio inicial de 0 euros.
+La asociación cuenta con un patrimonio inicial de 66,30 euros.
 
 ### Artículo 25 - Ejercicio económico
 
@@ -239,9 +241,18 @@ b) Las aportaciones, subvenciones, donaciones a título gratuito, herencias y le
 c) Bienes muebles e inmuebles.  
 d) Cualquier otro recurso susceptible de valoración económica y admitido en derecho.
 
+## Artículo 27 - Cuantía de las cuotas
+
+Existirán 2 tipos de cuotas para los socios:
+
+- 20€ al año: precio general.
+- 10€ al año: para estudiantes y/o desempleados.
+
+La condición de estudiante y/o desempleado deberá ser justificada documentalmente.
+
 ## Capítulo VI - Disolución de la asociación
 
-### Artículo 27 - Causas
+### Artículo 28 - Causas
 
 La asociación puede disolverse:
 
@@ -249,7 +260,7 @@ a) Por sentencia judicial firme.
 b) Por acuerdo de la asamblea general extraordinaria.  
 c) Por las causas determinadas en el artículo 39 del Código Civil.
 
-### Artículo 28 - Comisión liquidadora
+### Artículo 29 - Comisión liquidadora
 
 Acordada la disolución de la asociación, la asamblea general extraordinaria designará a una comisión liquidadora que tendrá las siguientes funciones:
 
@@ -266,4 +277,4 @@ Los presentes estatutos han sido aprobados el mismo día de celebración del act
 
 Vº Bº Presidente/a | Secretario/a
 --|--
-Fdo.:  |  Fdo.:
+Fdo.: Juan Ignacio Rodríguez de León |  Fdo.: Sergio Delgado Quintero
