@@ -1,4 +1,4 @@
-# Estatutos de la asociación Python Canarias
+# Modelo de estatutos para asociaciones canarias
 
 ## Capítulo I - De la asociación en general
 
