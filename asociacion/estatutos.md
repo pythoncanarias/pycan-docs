@@ -74,9 +74,13 @@ Los socios fundadores y las socios de número tendrán las obligaciones establec
 
 Los socios honoríficos tendrán las obligaciones establecidas en el artículo 15 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias, excepto el apartado b) del artículo 15 de la citada ley.
 
+### Artículo 12 - Publicidad de los datos
+
+El hecho de ser socio es un dato público y podrá ser consultado en la web de Python Canarias. La información que se muestre constará de nombre, apellidos y número de DNI.
+
 ## Capítulo III - Del régimen disciplinario
 
-### Artículo 11 - Infracciones muy graves
+### Artículo 13 - Infracciones muy graves
 
 Tienen la consideración de infracciones disciplinarias muy graves:
 
@@ -94,7 +98,7 @@ k) El quebrantamiento de sanciones impuestas por falta grave o muy grave.
 l) Todas las infracciones tipificadas como leves o graves y cuyas consecuencias físicas, morales o económicas, plenamente probadas, sean consideradas como muy graves.  
 m) En general, las conductas contrarias al buen orden social, cuando se consideren muy graves.
 
-### Artículo 12 - Infracciones graves
+### Artículo 14 - Infracciones graves
 
 Son infracciones punibles dentro del orden social y serán consideradas como graves:
 
@@ -107,7 +111,7 @@ f) El incumplimiento o las conductas contrarias a las disposiciones estatutarias
 g) El incumplimiento de los acuerdos válidamente adoptados por los órganos de la asociación, cuando tengan la consideración de grave.  
 h) En general, las conductas contrarias al buen orden social, cuando se consideren como graves.
 
-### Artículo 13 - Infracciones leves
+### Artículo 15 - Infracciones leves
 
 Se consideran infracciones disciplinarias leves:
 
@@ -120,7 +124,7 @@ f) La inducción o complicidad, plenamente probada, de cualquier socio en la com
 g) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la entidad, cuando se consideren como leves.  
 h) En general, las conductas contrarias al buen orden social, cuando se consideren como leves.
 
-### Artículo 14 - Infracciones de los miembros del órgano de representación
+### Artículo 16 - Infracciones de los miembros del órgano de representación
 
 a) Se consideran infracciones muy graves susceptibles de ser cometidas por los miembros del órgano de representación:
 
@@ -143,7 +147,7 @@ c) Tienen la consideración de infracciones leves:
 3) Las conductas o actuaciones contrarias al correcto funcionamiento del órgano de representación.  
 4) La falta de asistencia a una reunión del órgano de representación, sin causa justificada.
 
-### Artículo 15 - Sanciones
+### Artículo 17 - Sanciones
 
 Las sanciones susceptibles de aplicación por la comisión de infracciones muy graves serán la pérdida de la condición de socio o la suspensión temporal en tal condición durante un período de un año a cuatro años, en adecuada proporción a la infracción cometida.
 
@@ -153,23 +157,23 @@ La comisión de las infracciones de carácter leve dará lugar a la amonestació
 
 Las infracciones de los miembros del órgano de representación, en el caso de las muy graves al cese en sus funciones de miembro de el órgano de representación y, en su caso, a la inhabilitación para ocupar nuevamente cargos en el órgano de gobierno; en el caso de las graves, el cese durante un período de un mes a un año, en adecuada proporción a la infracción cometida; y si la infracción cometida tiene el carácter de leve en la amonestación o suspensión por el período de un mes.
 
-### Artículo 16 - Procedimiento sancionador
+### Artículo 18 - Procedimiento sancionador
 
 Para la adopción de medidas disciplinarias acordes a la gravedad de la infracción cometida, se llevará una propuesta de sanción a la siguiente reunión del órgano de representación, que ratificará la misma mediante acuerdo.
 
 A continuación se notificará la sanción provisional al infractor, el cual dispone de 48 horas para alegaciones. En caso de haber alegaciones, se tratarán en la siguiente reunión del órgano de representación, al final de la cual se acordará una sanción definitiva que será notificada al infractor. En caso de no haber alegaciones, la sanción provisional pasaría a convertirse en definitiva.
 
-### Artículo 17 - Prescripción
+### Artículo 19 - Prescripción
 
 Las infracciones prescribirán a los tres años, al año o al mes, según se trate de las muy graves, graves o leves, comenzándose a contar el plazo de prescripción al día siguiente a la comisión de la infracción.
 
-### Artículo 18 - Participación de voluntarios
+### Artículo 20 - Participación de voluntarios
 
 El voluntariado es bienvenido para el desarrollo de las actividades de la asociación. Su participación en cada evento será establecida por el órgano de representación, o en su caso, por la asamblea general.
 
 ## Capítulo IV - De los órganos sociales
 
-### Artículo 19 - Estructura del órgano de representación
+### Artículo 21 - Estructura del órgano de representación
 
 El órgano de representación será la junta directiva y estará integrada por los siguientes miembros:
 
@@ -179,7 +183,7 @@ c) Un/a secretario/a.
 d) Un/a tesorero/a.  
 e) 3 vocales.  
 
-### Artículo 20 - Competencias del órgano de representación
+### Artículo 22 - Competencias del órgano de representación
 
 Las facultades del órgano de representación se extenderán, con carácter general, a todos los actos propios de las finalidades de la asociación, siempre que no requieran, conforme a los presentes estatutos, autorización expresa de la asamblea general.
 
@@ -192,7 +196,7 @@ d) Recaudar la cuota de los socios y administrar los fondos sociales.
 e) Instruir procedimiento sancionador frente a infracciones de los socios que estén recogidas en los estatutos.  
 f) Proponer a la asamblea general para su aprobación las cuentas anuales y el presupuesto formulados por el tesorero, así como la memoria de actividades formuladas por el secretario.
 
-### Artículo 20 - Cargos del órgano de representación
+### Artículo 23 - Cargos del órgano de representación
 
 Sólo podrán formar parte del órgano de representación los socios.
 
@@ -202,13 +206,13 @@ Los miembros del órgano de representación comenzarán a ejercer sus funciones 
 
 Las vacantes que se produzcan en el órgano de representación, antes de terminar su período de mandato, serán cubiertas por los socios que designe la propia junta directiva, dando cuenta de las sustituciones en la primera asamblea general que se celebre, debiendo ratificarse dicho acuerdo por la asamblea. En caso contrario, se procederá a la elección del socio que debe cubrir la vacante en la misma sesión de la asamblea.
 
-### Artículo 21 - Convocatoria del órgano de representación
+### Artículo 24 - Convocatoria del órgano de representación
 
 Las reuniones del órgano de representación se celebrarán previa convocatoria del presidente acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
 
 La toma de decisiones se realizará por mayoría de votos de los socios asistentes.
 
-### Artículo 22 - Convocatoria de la asamblea general
+### Artículo 25 - Convocatoria de la asamblea general
 
 La asamblea general deberá ser convocada al menos en sesión ordinaria una vez al año, dentro del primer trimestre anual, para examinar y aprobar la liquidación anual de las cuentas del ejercicio anterior, el presupuesto del ejercicio corriente y la memoria de actividades del ejercicio anterior.
 
@@ -218,21 +222,21 @@ Las asambleas generales se celebrarán previa convocatoria del presidente acompa
 
 La toma de decisiones se realizará por mayoría de votos de los socios asistentes.
 
-### Artículo 23 - Procedimiento de modificación de estatutos
+### Artículo 26 - Procedimiento de modificación de estatutos
 
 Los estatutos de la asociación podrán ser modificados cuando resulte conveniente a los intereses de la misma, por acuerdo de la asamblea general convocada al efecto.
 
 ## Capítulo V - Régimen económico
 
-### Artículo 24 - Patrimonio inicial
+### Artículo 27 - Patrimonio inicial
 
 La asociación cuenta con un patrimonio inicial de 66,30 euros.
 
-### Artículo 25 - Ejercicio económico
+### Artículo 28 - Ejercicio económico
 
 El ejercicio económico será anual y su cierre tendrá lugar el 31 de diciembre de cada año.
 
-### Artículo 26 - Recursos económicos
+### Artículo 29 - Recursos económicos
 
 Constituirán los recursos económicos de la asociación:
 
@@ -241,18 +245,19 @@ b) Las aportaciones, subvenciones, donaciones a título gratuito, herencias y le
 c) Bienes muebles e inmuebles.  
 d) Cualquier otro recurso susceptible de valoración económica y admitido en derecho.
 
-## Artículo 27 - Cuantía de las cuotas
+### Artículo 30 - Cuantía de las cuotas
 
-Existirán 2 tipos de cuotas para los socios:
+Existirán 3 tipos de cuotas para los socios:
 
 - 20€ al año: precio general.
-- 10€ al año: para estudiantes y/o desempleados.
+- 10€ al año: precio para estudiantes y/o desempleados.
+- 45€ al año: precio para ser socios de Python Canarias y Python España.
 
 La condición de estudiante y/o desempleado deberá ser justificada documentalmente.
 
 ## Capítulo VI - Disolución de la asociación
 
-### Artículo 28 - Causas
+### Artículo 31 - Causas
 
 La asociación puede disolverse:
 
@@ -260,7 +265,7 @@ a) Por sentencia judicial firme.
 b) Por acuerdo de la asamblea general extraordinaria.  
 c) Por las causas determinadas en el artículo 39 del Código Civil.
 
-### Artículo 29 - Comisión liquidadora
+### Artículo 32 - Comisión liquidadora
 
 Acordada la disolución de la asociación, la asamblea general extraordinaria designará a una comisión liquidadora que tendrá las siguientes funciones:
 
