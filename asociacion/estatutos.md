@@ -23,9 +23,9 @@ La duración de la constitución de la asociación será por tiempo indefinido.
 
 Los fines de la asociación serán los siguientes:
 
-a) Promover el uso de los lenguajes de programación en general, y de Python en particular.  
-b) Servir como punto de encuentro de todas aquellas personas interesadas en el uso de dicho lenguaje.  
-c) Dar soporte a quienes deseen aprender y desarrollar su uso.  
+a) Promover el uso del lenguaje de programación Python, y de otros lenguajes por extensión.  
+b) Servir como punto de encuentro de todas aquellas personas interesadas en el uso del lenguaje de programación Python, y de otros lenguajes por extensión.  
+c) Dar soporte a quienes deseen aprender y desarrollar el uso del lenguaje de programación Python, y de otros lenguajes por extensión.  
 d) Promover la programación como una competencia educativa básica.
 
 ### Artículo 5 - Ámbito territorial
@@ -64,7 +64,7 @@ c) Honoríficos/as: Quienes por decisión de la asamblea general colaboren de fo
 
 Los socios fundadores y los socios de número tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
 
-Todos los socios tendrán derecho, como consecuencia del pago de la cuota establecida en el artículo 27 de los presentes estatutos, a un obsequio anual de merchandaising y a descuentos en los eventos organizados por la asociación.
+Todos los socios tendrán derecho, como consecuencia del pago de la cuota establecida en el artículo correspondiente de los presentes estatutos, a un obsequio anual de merchandaising y a descuentos en los eventos organizados por la asociación.
 
 Los socios honoríficos tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias, excepto el derecho a voto mencionado en el artículo 13 apartado a) de la citada ley.
 
@@ -76,7 +76,7 @@ Los socios honoríficos tendrán las obligaciones establecidas en el artículo 1
 
 ### Artículo 12 - Publicidad de los datos
 
-El hecho de ser socio es un dato público y podrá ser consultado en la web de Python Canarias. La información que se muestre constará de nombre, apellidos y número de DNI.
+Se podrá consultar el nombre y apellidos de los socios a través de un formulario en la web de Python Canarias, donde se ingresará el DNI para su búsqueda.
 
 ## Capítulo III - Del régimen disciplinario
 
