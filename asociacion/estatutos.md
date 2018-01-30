@@ -48,10 +48,11 @@ La condición de socio se adquirirá a solicitud de la persona interesada, manif
 
 ### Artículo 8 - Pérdida de la condición de socio
 
-Se perderá la condición de socio por alguna de las dos situaciones siguientes:
+Se perderá la condición de socio por alguna de las situaciones siguientes:
 
 a) Por voluntad de la persona, manifestada al órgano de representación.  
 b) Por acuerdo adoptado por el órgano de representación, conforme al régimen disciplinario establecido en estos estatutos.
+c) Por impago de la cuota de socio.
 
 ### Artículo 9 - Clases de socios
 
@@ -68,8 +69,6 @@ El medio de comunicación de notificaciones a los socios será vía correo elect
 ### Artículo 11 - Derechos de los socios
 
 Los socios fundadores y los socios de número tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
-
-Todos los socios tendrán derecho, como consecuencia del pago de la cuota establecida en el artículo correspondiente de los presentes estatutos, a un obsequio anual de merchandising y a descuentos en los eventos organizados por la asociación, siempre que los fondos de la asociación así lo permitan.
 
 Los socios honoríficos tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias, excepto el derecho a voto mencionado en el artículo 13 apartado a) de la citada ley.
 
@@ -103,7 +102,6 @@ i) La inducción o complicidad, plenamente probada, a cualquier socio en la comi
 j) Cualquier acción o comentario que atente contra la igualdad efectiva entre hombres y mujeres.  
 k) El quebrantamiento de sanciones impuestas por falta grave o muy grave.  
 l) Todas las infracciones tipificadas como leves o graves y cuyas consecuencias físicas, morales o económicas, plenamente probadas, sean consideradas como muy graves.  
-m) En general, las conductas contrarias al buen orden social, cuando se consideren muy graves.
 
 ### Artículo 15 - Infracciones graves
 
@@ -116,19 +114,16 @@ d) Todas las infracciones tipificadas como leves y cuyas consecuencias físicas,
 e) La reiteración de una falta leve.  
 f) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la asociación, cuando se consideren como graves.  
 g) El incumplimiento de los acuerdos válidamente adoptados por los órganos de la asociación, cuando tengan la consideración de grave.  
-h) En general, las conductas contrarias al buen orden social, cuando se consideren como graves.
 
 ### Artículo 16 - Infracciones leves
 
 Son infracciones punibles dentro del orden social y serán consideradas como leves:
 
-a) El impago de una cuota, salvo que exista causa que lo justifique a criterio del órgano de representación.  
-b) Todas aquellas conductas que impidan el correcto desarrollo de las actividades propias de la asociación, cuando tengan la consideración de leve.  
-c) El maltrato de los bienes muebles o inmuebles de la asociación.  
-d) Toda conducta incorrecta en las relaciones con los socios.  
-e) La inducción o complicidad, plenamente probada, de cualquier socio en la comisión de las faltas contempladas como leves.  
-f) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la entidad, cuando se consideren como leves.  
-g) En general, las conductas contrarias al buen orden social, cuando se consideren como leves.
+a) Todas aquellas conductas que impidan el correcto desarrollo de las actividades propias de la asociación, cuando tengan la consideración de leve.  
+b) El maltrato de los bienes muebles o inmuebles de la asociación.  
+c) Toda conducta incorrecta en las relaciones con los socios.  
+d) La inducción o complicidad, plenamente probada, de cualquier socio en la comisión de las faltas contempladas como leves.  
+e) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la entidad, cuando se consideren como leves.  
 
 ### Artículo 17 - Infracciones de los miembros del órgano de representación
 
@@ -249,11 +244,10 @@ Constituirán los recursos económicos de la asociación:
 a) Las cuotas de los miembros, periódicas o extraordinarias.  
 b) Las aportaciones, subvenciones, donaciones a título gratuito, herencias y legados recibidos.  
 c) Bienes muebles e inmuebles.  
-d) Cualquier otro recurso susceptible de valoración económica y admitido en derecho.
 
 ### Artículo 31 - Cuantía de las cuotas
 
-Existirán 3 tipos de cuotas para los socios:
+Existirán los siguientes tipos de cuotas para los socios:
 
 - 20€ al año: precio general.
 - 10€ al año: precio para estudiantes y/o desempleados.
