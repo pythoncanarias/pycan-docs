@@ -12,7 +12,7 @@ La asociación tendrá su domicilio social en la siguiente dirección postal:
 
 C/ La Higuera, 4 (Edificio Anaga) portal 2B, primero  
 38204  
-San Cristobal de la Laguna  
+San Cristóbal de la Laguna  
 Tenerife  
 España
 
@@ -39,7 +39,7 @@ El ámbito territorial de la asociación en el que desarrollará sus actividades
 
 Podrán ser miembros de la asociación:
 
-a) Las personas físicas, con capacidad de obrar, no sujetas a ninguna condición legal para el ejercicio del derecho de asociación así como los/as menores de edad, con catorce o más años, siempre que cuenten con el consentimiento escrito y expreso de sus representantes legales.  
+a) Las personas físicas, con capacidad de obrar, no sujetas a ninguna condición legal para el ejercicio del derecho de asociación, así como los/as menores de edad, con catorce o más años, siempre que cuenten con el consentimiento escrito y expreso de sus representantes legales.  
 b) Las personas jurídicas.
 
 ### Artículo 7 - Procedimiento para adquirir la condición de socio
@@ -51,7 +51,7 @@ La condición de socio se adquirirá a solicitud de la persona interesada, manif
 Se perderá la condición de socio por alguna de las situaciones siguientes:
 
 a) Por voluntad de la persona, manifestada al órgano de representación.  
-b) Por acuerdo adoptado por el órgano de representación, conforme al régimen disciplinario establecido en estos estatutos.
+b) Por acuerdo adoptado por el órgano de representación, conforme al régimen disciplinario establecido en estos estatutos.  
 c) Por impago de la cuota de socio.
 
 ### Artículo 9 - Clases de socios
@@ -74,7 +74,7 @@ Los socios honoríficos tendrán los derechos establecidos en el artículo 13 de
 
 ### Artículo 12 - Obligaciones de los socios
 
-Los socios fundadores y las socios de número tendrán las obligaciones establecidas en el artículo 15 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
+Los socios fundadores y los socios de número tendrán las obligaciones establecidas en el artículo 15 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
 
 Los socios honoríficos tendrán las obligaciones establecidas en el artículo 15 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias, excepto el apartado b) del artículo 15 de la citada ley.
 
@@ -94,7 +94,7 @@ a) Todas aquellas actuaciones que perjudiquen u obstaculicen la consecución de 
 b) El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la asociación, cuando se consideren como muy graves.  
 c) El incumplimiento de los acuerdos válidamente adoptados por los órganos de la asociación, cuando se consideren muy graves.  
 d) La reiteración de una falta grave.  
-e) La protesta o actuaciones airadas y ofensivas que impidan la celebración de asambleas o reuniones de el órgano de representación.  
+e) La protesta o actuaciones airadas y ofensivas que impidan la celebración de asambleas o reuniones del órgano de representación.  
 f) Participar, formular o escribir, mediante cualquier medio de comunicación social, manifestaciones que perjudiquen de forma muy grave la imagen de la asociación.  
 g) La usurpación ilegítima de atribuciones o competencias sin contar con la preceptiva autorización del órgano competente de la entidad.  
 h) Agredir, amenazar o insultar gravemente a cualquier socio.  
@@ -162,7 +162,7 @@ Las infracciones de los miembros del órgano de representación, en el caso de l
 
 Para la adopción de medidas disciplinarias acordes a la gravedad de la infracción cometida, se llevará una propuesta de sanción a la siguiente reunión del órgano de representación, que ratificará la misma mediante acuerdo.
 
-A continuación se notificará la sanción provisional al infractor, el cual dispone de 48 horas para alegaciones. En caso de haber alegaciones, se tratarán en la siguiente reunión del órgano de representación, al final de la cual se acordará una sanción definitiva que será notificada al infractor. En caso de no haber alegaciones, la sanción provisional pasaría a convertirse en definitiva.
+A continuación, se notificará la sanción provisional al infractor, el cual dispone de 48 horas para alegaciones. En caso de haber alegaciones, se tratarán en la siguiente reunión del órgano de representación, al final de la cual se acordará una sanción definitiva que será notificada al infractor. En caso de no haber alegaciones, la sanción provisional pasaría a convertirse en definitiva.
 
 ### Artículo 20 - Prescripción
 
@@ -209,7 +209,7 @@ Las vacantes que se produzcan en el órgano de representación, antes de termina
 
 ### Artículo 25 - Convocatoria del órgano de representación
 
-Las reuniones del órgano de representación se celebrarán previa convocatoria del presidente acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
+Las reuniones del órgano de representación se celebrarán previa convocatoria del presidente, acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
 
 La toma de decisiones se realizará por mayoría de votos de los socios asistentes.
 
@@ -217,9 +217,9 @@ La toma de decisiones se realizará por mayoría de votos de los socios asistent
 
 La asamblea general deberá ser convocada al menos en sesión ordinaria una vez al año, dentro del primer trimestre anual, incluyendo, al menos, el siguiente punto del orden del día: examinar y aprobar la liquidación anual de las cuentas del ejercicio anterior, el presupuesto del ejercicio corriente y la memoria de actividades del ejercicio anterior.
 
-Asimismo se podrá convocar en sesión extraordinaria cuando así lo acuerde el órgano de representación.
+Asimismo, se podrá convocar en sesión extraordinaria cuando así lo acuerde el órgano de representación.
 
-Las asambleas generales se celebrarán previa convocatoria del presidente acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
+Las asambleas generales se celebrarán previa convocatoria del presidente, acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
 
 La toma de decisiones se realizará por mayoría de votos de los socios asistentes.
 
