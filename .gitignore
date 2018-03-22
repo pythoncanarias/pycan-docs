@@ -4,3 +4,7 @@
 **.autosave
 *.lock
 *.odt#
+*.aux
+*.log
+*.out
+*.toc
