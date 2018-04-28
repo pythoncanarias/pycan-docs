@@ -1,0 +1,220 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Micro-Python}
+\hyphenation{Py-Day}
+
+\title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+\date{\textbf{26 de abril de 2018}}
+\author{
+    Israel Santana Alemán \and
+    Jesús Miguel Torres Jorge \and
+    José Lucas Grillo Lorenzo \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Raúl Marrero Rodríguez
+    Sara Báez García \and
+    Sergio Delgado Quintero \and 
+    Víctor Suárez García \and 
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+En \textit{La Orotava}, siendo las \textit{17:00h} de la fecha arriba indicada se reúnen en \textit{MyPlace Coworking Tenerife} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cuestiones organizativas sobre MicroPython 2018}
+
+\begin{itemize}
+    \item Se acuerda realizar el evento en la \textit{sala de formación del Coworking INTECH Tenerife} de la Dársena de Santa Cruz de Tenerife.
+    \item Habrá que preguntar si hacen falta regletas de corriente.
+    \item Se le van a plantear 3 fechas (sábados) a INTECH para que ellos deciden cuál les viene mejor:
+        \begin{itemize}
+            \item 26 de mayo.
+            \item 9 de junio.
+            \item 16 de junio.
+        \end{itemize}
+    \item Seguiremos con la colaboración con \textit{K-Electrónica} para la venta de los kits. El kit será, en sí mismo, la entrada, pero hay que contactar con la tienda para que sólo se haga venta online del kit. Así daremos más oportunidades a los interesados que vivan lejos de La Laguna.
+    \item Se acuerdan sacar \textit{20 plazas}, de las cuales 2 están reservadas para 2 asistentes de la anterior edición de MicroPython, y otras 4 son para INTECH (que liberarán en caso de no usarse). Por lo tanto, quedarían 16 plazas reales para poner a la venta.
+    \item El kit será prácticamente el mismo que en la anterior edición, pero se buscará una \textit{protoboard más grande}.
+    \item Existe \textit{transporte público de TITSA} desde el intercambiador de Santa Cruz hasta la parada de "Instituto Oceanográfico" que está al lado del coworking de INTECH. Serían las líneas 910 y 945, y tienen un coste de 0.75\euro\ si se paga con bono o 1.25\euro\ si se paga en efectivo.
+    \item Se desarrollará una página web para el evento.
+\end{itemize}
+
+\section{Cuestiones organizativas sobre PyDay 2018}
+
+\subsection*{JSDay}
+
+Dailos Díaz Lara (\href{https://twitter.com/ddialar}{@dDiaLar}), co-organizador del JSDay, nos informa sobre cuestiones relativas al evento:
+
+\begin{itemize}
+    \item Será los días sábado 10 y domingo 11 de noviembre. La entrega de credenciales será el sábado a las 8:00h, 8:30h la presentación y 9:00h la primera charla. El domingo se empieza a las 9:00h y se termina a las 17:00h.
+    \item Habrán 2 tracks: principiante y medio-avanzado.
+    \item El primer día habrán 16 charlas y el segundo día de 4 a 6 charlas y 3 talleres.
+    \item Los espacios a utilizar serán: Aula Magna de Física con capacidad para 247 personas y las aulas 11 y 12 de Física, con capacidad para 117 personas cada una. No está aún confirmado pero las gestiones se están realizando a través de Jesús Torres.
+    \item Se sacarán 150 entradas a la venta. Si se supera un aforo de 200 personas se tendría que hacer plan de seguridad.
+    \item Ambos días habrá segurita y en la mañana del sábado habrá personal en portería.
+    \item Existe una coordinación con el grupo de Python Canarias para intentar hacerlo en el mismo espacio y en el mismo período.
+    \item En relación a la posibilidad de hacer PyDay en el coworking de INTECH Tenerife, nos comenta que la acústica de la sala principal no es buena. Añade que en la sala de formación podrían caber hasta 40 personas pero quitando mesas y poniendo sillas apretadas. En cuanto a hacerlo en la facultad de Bellas Artes, explica que la sala principal tampoco hay una buena acústica y que la pared de proyección tiene poca visibilidad por la luz que entra. Sin embargo las aulas de bellas artes sí están muy bien.
+    \item En cuanto a la venta de entradas lo harán con Ticketmaster. La comisión es de 1\euro\ por entrada. En la edición anterior también lo hicieron con ellos y están muy contentos. Ticketea, sin embargo, entregan el grueso del dinero de las entradas una vez pasado el evento.
+    \item Hay la intención de cerrar los ponentes antes del 15 de mayo. 7 de los ponentes vendrán de península.
+    \item Buena parte de la partida presupuestaria es para el catering: coffee-break de la mañana, almuerzo y coffee-break de la tarde (sábado y domingo). No les gustaría contar con el catering de la universidad (cafetería de Física). El catering se serviría en los pasillos de Física, o bien, si hace buen tiempo, en el exterior del edificio calabaza. El hecho de mantener el almuerzo en la zona del evento es importante para que la gente no se descuelgue al ir lejos a comer.
+    \item Si todo marcha bien, la venta de entradas empezaría en octubre. Hasta entonces el objetivo es crear expectación y hacer difusión del evento.
+    \item La entrada costará entre 20\euro\ y 25\euro\ . Aún no está definido.
+    \item Se grabarán las ponencias. A posteriori editar y publicar los vídeos de las mismas.
+    \item No ven útil realizar encuestas antes del evento. Después del mismo, sí. Sobre todo de cara a la evaluación.
+\end{itemize}
+
+\subsection*{Cuestiones propias del PyDay 2018}
+
+\begin{itemize}
+    \item Se acuerda realizar el evento en el \textit{edificio de Física y Matemáticas de la Universidad de La Laguna}. Concretamente los siguientes espacios:
+    \begin{itemize}
+        \item Aula magna.
+        \item Aula 11.
+        \item Aula 12.
+    \end{itemize}
+    \item Habrá que estudiar el \textit{acceso a la WIFI de la universidad}. No interesa tener que crear cuentas para cada asistente, sino más bien algún tipo de cuenta genérica (de invitado).
+    \item Se acuerda que \textit{no se certificarán ECTS}.
+    \item Para la grabación del evento lo más operativo sería poder hacer un \textit{streaming} y que ya esos vídeos quedaran en YouTube para su posterior visualización. Haría falta capturar la salida del portátil y una cámara hacia el ponente (incluyendo audio). Queda pendiente estudiar con qué empresas/organizaciones se podría hacer esto:
+    \begin{itemize}
+        \item Innova 7.
+        \item TGX.
+    \end{itemize}
+    \item También existe la posibilidad de adquirir material propio de grabación, o incluso hablar con ULL-Conecta que prestan un kit para ello.
+    \item Para el \textit{Call for Papers} se decide preparar un formulario de Google. La idea es abrir el CFP el día 2 de mayo. Los campos que debería tener el formulario son:
+    \begin{itemize}
+        \item Título.
+        \item Resumen.
+        \item Redes sociales.
+        \item Correo.
+        \item Nivel (básico, intermedio, avanzado)
+        \item Bio.
+        \item Fotografía.
+    \end{itemize}
+    \item En cuanto a ponentes externos, se acuerda intentar contactar, en primera instancia, con \textit{Víctor Terrón}. En caso de que no se pudiera, hay otras opciones.
+    \item Se ve interesante montar una \textit{zona lúdico/tecnológica (ZLT)}, que estaría en paralelo con los tracks y permitiría que aquellos asistentes no interesados en alguna ponencia, pudieran pasar un buen rato en este espacio. Se plantean posibles contenidos para la ZLT:
+    \begin{itemize}
+        \item Oculus.
+        \item Mesa de ping-pong.
+        \item Super nintendo.
+        \item DDR (juego de baile).
+        \item Cosas analógicas.
+    \end{itemize}
+    \item De cara a la búsqueda de patrocinadores se realizará un \textit{dossier(brochure) informativo del evento}.
+    \item Se establecen 3 \textit{niveles de patrocinio}:
+    \begin{itemize}
+        \item Bajo: 50\euro\ (logo en el flyer y en la web). Se le denominará ``patrocinador''.
+        \item Medio: 100\euro\ (logo en el flyer, en la web, en el welcome-pack y 1 entrada gratis). Se le denominará ``patrocinador''.
+        \item Alto: 200\euro\ (logo en el flyer, en la web, en el welcome-pack, en la acreditación, 2 entradas gratis, espacio publicitario en pasillos). Se le denominará ``colaborador''.
+    \end{itemize}
+    \item El tamaño del logotipo también irá en función del nivel de patrocinio.
+    \item Se acuerda sacar \textit{175 entradas}.
+    \item Para el \textit{catering}, se solicitará presupuesto a la cafetería de Física y a la empresa de la anterior edición de PyDay (Marrero Sánchez).
+    \item Para las \textit{acreditaciones} queda pendiente buscar blister en AliExpress para solicitarlos con tiempo suficiente.
+    \item En relación a la venta de entradas se decide hacerlo con \textit{Ticketmaster}. Queda pendiente preguntar por las comisiones para asociaciones sin ánimo de lucro.
+    \item El \textit{hashtag} del evento saldrá de una encuesta entre el CORE de Python Canarias.
+    \item Para la difusión del evento se decide preparar una \textit{nota de prensa} que luego se podría pasar a medios de comunicación o a Periodismo-ULL para que hicieran una cobertura del evento.
+    \item La idea de un ``mes tecnológico'' (JSDay-PyDay) podría ser de interés para la ULL de cara a su promoción y difusión.
+    \item Queda pendiente hacer una \textit{previsión de ingresos y gastos del evento}, para poder saber los márgenes en los que nos podemos mover.
+    \item Se acuerda que el \textit{precio de la entrada} sea de 12\euro.
+    \item Los \textit{talleres} del viernes tarde no formarán parte explícita del PyDay, y aún no está claro que se realicen.
+    \item Se acuerda hacer \textit{2 tracks} en paralelo (iniciación y avanzado) sólo con ponencias/charls.
+    \item De cara al \textit{merchandising} se plantean algunos elementos:
+    \begin{itemize}
+        \item Camisetas (mirar por AliExpress).
+        \item Pegatinas.
+        \item Logo de Python Canarias hecho en 3D, que sea a la vez llavero y sirva para sacar carritos de la compra.
+    \end{itemize}
+\end{itemize}
+
+\section{Alojamiento para servicios de Python Canarias}
+
+\begin{itemize}
+    \item Se acuerda utilizar la \textit{plataforma Medium} para el blog de la asociación: \url{https://medium.com/pythoncanarias}
+    \item Hay que estudiar qué \textit{servicios} necesitamos proporcionar para luego decidir la infraestructura y las herramientas con las que cubrir dichas necesidades, así como establecer prioridades.
+    \item Una opción para alojamiento podría ser \textit{Digital Ocean} con VPS de 5\$ al mes, que ofrece 1GB de RAM y 25GB de SSD (\url{https://www.digitalocean.com/pricing/}).
+    \item Se propone la realización de sendas \textit{páginas estáticas} para los próximos eventos:
+    \begin{itemize}
+        \item \texttt{micropython.pythoncanarias.es}
+        \item \texttt{pyday.pythoncanarias.es}
+    \end{itemize}
+    \item Quedaría pendiente saber si hacemos subdominios dentro de estos dominios para diferenciar los distintos años. Por ejemplo:
+    \begin{itemize}
+        \item \texttt{2018.micropython.pythoncanarias.es}
+        \item \texttt{2018.pyday.pythoncanarias.es}
+    \end{itemize}
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+\subsection*{PyBirras Gran Canaria}
+
+\begin{itemize}
+    \item Israel comenta que se va a montar un \textit{PyBirras en Gran Canaria} para el 22 de junio, viernes por la tarde.
+    \item La entrada estaría entre 2\euro\ y 3\euro.
+    \item El evento se organizará en colaboración con la Sociedad de Promoción Económica de Gran Canaria (SPEGC).
+    \item Aún no se han cerrado los detalles del evento.
+\end{itemize}
+
+\subsection*{Cursos de Python en Gran Canaria}
+
+\begin{itemize}
+    \item Israel plantea la posibilidad de impartir \textit{cursos de programación Python en Gran Canaria}.
+    \item Se harían en colaboración con la Sociedad de Promoción Económica de Gran Canaria (SPEGC).
+    \item Desde su empresa le podrían dar horas para la organización de estos cursos.
+\end{itemize}
+
+\subsection*{Propuestas para Python Canarias}
+
+\begin{itemize}
+    \item Israel apunta que, de cara a una posible capitalización inicial de la asociación, se podría ir cobrando entrada en las PyBirras.
+    \item También indica que, para coordinarnos entre los distintos grupos tecnológicos de las islas (Agile, CanariasJS, Python Canarias, \ldots) y no ``pisarnos'' los eventos, se podría crear un calendario de Google compartido e ir apuntando los eventos a realizar.
+\end{itemize}
+
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{20:00h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
