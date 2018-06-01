@@ -1,0 +1,183 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Micro-Python}
+\hyphenation{Py-Day}
+
+\title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+\date{\textbf{31 de mayo de 2018}}
+\author{
+    Jesús Miguel Torres Jorge \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Raúl Marrero Rodríguez
+    Sara Báez García \and
+    Sergio Delgado Quintero \and 
+    Víctor Suárez García \and 
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+En \textit{San Cristóbal de La Laguna}, siendo las \textit{17:30h} de la fecha arriba indicada se reúnen en la \textit{Escuela Superior de Ingeniería y Tecnología} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cuestiones organizativas sobre MicroPython 2018}
+
+\begin{itemize}
+    \item Si al final hay algún problema con el \textit{NodeMCU} se cambiaría por un \textit{Wemos D1}. De esto se encargaría en todo caso \textit{K-Electrónica}.
+    \item Se acuerda seguir tuiteando de cara a la venta de entradas del evento.
+    \item Se decide contactar con INTECH para que hagan igualmente difusión del evento.
+    \item Hay que preguntar a INTECH si el aula de formación dispone de suficientes tomas de corriente para los asistentes. En caso de que no sea así, se acuerda que cada miembro del CORE lleve ese día una regleta de corriente.
+    \item De cara a recordar a los asistentes el material que deben llevar, se hará uso de la lista de mails que nos proporcionará K-Electrónica.
+    \item Se propone la creación de diplomas para los asistentes al evento.
+\end{itemize}
+
+\section{Cuestiones organizativas sobre PyDay 2018}
+
+\subsection*{Folleto de patrocinio}
+
+\begin{itemize}
+    \item Se acuerda incorporar la dirección de correo electrónico de la asociación \texttt{info@pythoncanarias.es} como canal de contacto para patrocinadores.
+    \item Se decide nombrar a todas las personas del CORE en el folleto, poniendo nombre y primer apellido.
+    \item Se acuerda subir el PDF final al repo que será enlazado desde la web del evento.
+\end{itemize}
+
+\subsection*{Grabación de charlas}
+
+\begin{itemize}
+    \item Raúl habló con Ayoze (TGX) y en principio hay buena predisposición para hacer el streaming y grabación de las charlas del evento a cambio de un patrocinio. Le han dicho que aún queda mucho tiempo y que se volverá a tratar más adelante.
+    \item Queda pendiente hablar con Dailos (CanariasJS) para comentarle que interesaría que TGX hiciera la grabación de los dos eventos.
+\end{itemize}
+
+\subsection*{Búsqueda de patrocinadores}
+
+\begin{itemize}
+    \item De cara al mailing del folleto informativo, se acuerda realizar una hoja de cálculo en el Google Drive de la organización para ir añadiendo empresas/organizaciones susceptibles de ser potenciales patrocinadores del evento.
+    \item Se detecta un problema a la hora de recibir ingresos por parte de los patrocinadores, ya que a día de hoy no tenemos aún formalizada la asociación y no podemos abrir una cuenta bancaria asociada. Se plantea contactar con \textit{Python España} para ver si lo podríamos hacer a través de ellos.
+\end{itemize}
+
+\subsection*{Difusión}
+
+\begin{itemize}
+    \item Se acuerda contactar con \href{https://twitter.com/franciscomesa}{Francisco Mesa} que dirige el programa \href{https://twitter.com/Conectatealdia?lang=es}{Conéctate al día}, de cara a posible difusión y/o entrevistas.
+    \item También se decide contactar con \textit{Televisión Canaria} para posible difusión del evento (entrevistas).
+    \item Se acuerda diseñar un \textit{cartel/poster informativo} para difundir el evento así como el Call for Papers, para colocación en lugares pertinentes (facultades, organismos, empresas, etc.)
+    \item Se acuerda preparar una nota de prensa para la difusión en medios.
+    \item Se acuerda contactar con alguna ``pasante de información'' que nos sirviera de puente hacia medios de comunicación.
+\end{itemize}
+
+\subsection*{Formulario del CFP}
+
+\begin{itemize}
+    \item Sería deseable que enviara un correo tanto a la persona que lo ha hecho como a Python Canarias.
+\end{itemize}
+
+\subsection*{Merchandising}
+
+\begin{itemize}
+    \item Se acuerda que tanto las \textit{correas} como los \textit{plásticos} de las acreditaciones se pedirán por AliExpress a la mayor brevedad posible, dado el tiempo que pueden tardar en llegar. Luego se imprimirán tarjetas y se colocarán dentro de los plásticos.
+    \item Las bolsas del ``welcome-pack'' también se pedrián por AliExpress. Queda pendiente preguntar si se podría imprimir el logo de Python Canarias y cuánto costaría.
+    \item Se acuerda mirar precios para camisetas con el logotipo de Python Canarias. Hay que preguntar precios en empresas de Santa Cruz, de tal forma que se hiciera una ``plancha'' que luego sirviera para el resto de camisetas y fueran a precio más asequible.
+    \item Se decide también preparar pegatinas con el logo de Python Canarias. La propuesta es imprimirlas en Social-Makers.
+\end{itemize}
+
+\subsection*{Sorteo para el final del evento}
+
+\begin{itemize}
+    \item Parece más razonable esperar a ver cuántos patrocinadores vamos consiguiendo y, por consiguiente, con qué dinero podríamos contar para regalos.
+    \item Algunas ideas de regalos: NodeMCU, WEMOS D1, Camisetas, Serpiente de IKEA, algo de Java, \ldots
+\end{itemize}
+
+\subsection*{Call for Papers}
+
+\begin{itemize}
+    \item Se acuerda ampliar la fecha del CFP hasta el \textit{31 de julio}.
+    \item Se decide contactar personalmente con desarrolladores Python vía \textit{Linkedin} para la búsqueda posibles ponentes.
+    \item Igualmente se reitera la necesidad del ``boca a boca'' como medio más efectivo de conseguir ponentes.
+\end{itemize}
+
+\subsection*{Catering}
+
+\begin{itemize}
+    \item Se ha recibido el presupuesto de \textit{Marrero Sánchez} y se ha leído para conocimiento de todos los asistentes a la reunión. La valoración es muy positiva.
+    \item Jesús ya ha enviado correo a la empresa concesionaria de la \textit{cafetería de Física y Matemáticas} para que nos envíe presupuesto. Quedamos a la espera para contrastar ambos.
+\end{itemize}
+
+\subsection*{Web del evento}
+
+\begin{itemize}
+    \item Falta añadir ubicación y mapa.
+    \item Falta enlazar el folleto de patrocinio, una vez que esté totalmente terminado.
+    \item Falta enlazar con el calendario de eventos globales de Python.
+\end{itemize}
+
+\subsection*{Ponentes internacionales}
+
+\begin{itemize}
+    \item Queda pendiente la \textit{búsqueda de alojamiento} para Víctor Terrón y Pablo Galindo. Se intentará conseguir dos habitaciones dobles en un hotel económico cercano al lugar del evento.
+    \item En su defecto, hay posibilidad de un \textit{apartamento} en propiedad de miembros de Python Canarias, el cual dispone de 3 habitaciones.
+\end{itemize}
+
+\subsection*{Estructura del evento}
+
+\begin{itemize}
+    \item Se propone que haya una \textit{charla de apertura} de 1 hora para Pablo Galindo y una \textit{charla de cierre} de 1 hora para Víctor Terrón.
+    \item Entre medio charlas de 40 minutos con 10 minutos de preguntas y 5 minutos para el cambio de ponente.
+\end{itemize}
+
+\subsection*{Venta de entradas}
+
+\begin{itemize}
+    \item Se acuerda sacar \textit{30 entradas tipo ``early-access''} que corresponden con el pack de JSDay + PyDay. Estas entradas costarían 30 \euro y permitirían ir a los 2 eventos.
+    \item Por lo avanzados que están en CanariasJS con la organización del JSDay, se acuerda contactar con ellos para que sean los que saquen a la venta esta promoción.
+    \item Se decide sacar las entradas a la venta a través de \textit{Ticketmaster}.
+    \item También se decide sacar las \textit{entradas en tandas}, no todas a la vez. En la edición anterior se hizo así y dio buenos resultados.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{19:30h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
