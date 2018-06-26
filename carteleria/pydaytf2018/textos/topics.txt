@@ -1,0 +1,21 @@
+We are now just going over the call for papers process, so we can't announce the final list of talks, but our intention is to discuss the following topics:
+
+Web Development
+Data Analytics
+DevOps / System Administration / Automation Scripts
+E-Learning
+Artificial Intelligence / Machine Learning / Deep Learning
+Desktop Applications
+Language Parsers / Scrappers / Crawlers
+Internet of Things (IoT) / Embedded Devices
+Security
+Good Programming Habits / Design Patterns
+Relational Databases / NoSQL Databases
+Digital Currencies
+Concurrent and Asynchronous Programming
+Network Programming
+Software Prototyping
+Automatic Testing / Continuous Integration
+Game Development / Multimedia / Computer Graphics
+Mobile Development
+
