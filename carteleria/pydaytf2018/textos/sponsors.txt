@@ -1,0 +1,43 @@
+Diamond
+
+· Sponsor Logo in poster and flyers
+· Sponsor Logo and URL link in the event web
+· Sponsor sticker for the attends
+· Sponsor Flyer included in welcome pack
+· Two invitation tickets
+· Exposition stand
+
+Saphire
+
+· Sponsor Logo in poster and flyers
+· Sponsor Logo and URL link in the event web
+· Sponsor sticker for the attends
+· One invitation ticket
+
+Sponsors made all of this possible. Your sponsorship allow us to offer the event at a very tight price for the attendee. Also, it allows us to record all the talks and publish it later on Internet. This give us higher visibility and scope.
+
+In addition to helping the local community, companies and organizations get visibility, improved image and positioning. Also, the PyDay is the most suitable place to find talented and committed Python developers in Canary Islands.
+
+· A wider, better equipped and more suitable place
+· More capacity (175 places)
+· We will multiply the promotion in social networks
+· Two coffee break and lunch for all attends 
+· Two invited  international lecturers
+· Collaboration with the local group Canarias JS
+
+Multipurpose: able to do almost anything
+Huge Library: both included and third parties libraries
+Concise: do more things with fewer lines
+Free software: under the Python Software Foundation License, similar to BSD
+Multiplatform: Unix, Windows, Linux and OS/X, among others
+Multiparadigm: Object Oriented Programming, Functional, Imperative
+
+De uso general: capaz de hacer cualquier tipo de programa
+Inmensa cantidad de librerías: tanto las internas como de terceras partes.
+Conciso: Hace más cosas con menos líneas.
+Software Libre: La Python Software Foundation License, es una licencia libre, al estilo de la licencia BSD
+Multiplataforma: Unix, Windows, Linux, OS/X entre otras.
+Multiparadigma: Programación orientada a objetos, funcional, imperativo
+
+
+This event is organized by the Python Canarias Association, a non-profit organization whose purposes are, among others, to promote the use of the Python programming language, to give help to those who wish to learn it and to promote programming as a basic educational competence
