@@ -1,0 +1,150 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+
+\title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+\date{\textbf{18 de julio de 2018}}
+\author{
+    Alejandro Samarín Pérez \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Héctor Manuel Figueras Hernández \and
+    Lucas Grillo Lorenzo \and
+    Raúl Marrero Rodríguez \and
+    Sara Báez García \and
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+En \textit{San Cristóbal de La Laguna}, siendo las \textit{17:30h} de la fecha arriba indicada se reúnen en \textit{Kreitek} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cuestiones organizativas sobre PyDay 2018}
+
+\subsection*{Venta de entradas}
+
+\begin{itemize}
+    \item Se decide por unanimidad vender las entradas a través de nuestra propia plataforma. Juan Ignacio ya ha desarrollado una primera versión utilizando \textit{Django} y la pasarela de pago \textit{Stripe}.
+    \item Los motivos que nos llevan a esta decisión son los siguientes:
+    \begin{itemize}
+        \item Vender distintos tipos de entradas.
+        \item Stripe tiene las comisiones más bajas de todos los sistemas de venta de entrada que hemos analizado.
+        \item Flexibilidad de captura de datos y gestión de los mismos.
+        \item Aprovechar el sistema para cobrar las cuotas de los socios.
+        \item El dinero lo tendríamos, como máximo, de 7 a 10 días después del pago, mientras que en la mayoría de los sistemas de venta de entradas es al finalizar el evento.
+    \end{itemize}
+    \item Se plantea una idea de implementar en la web una sección donde los sponsors puedan pagar a través de Stripe. Se añade la correspondiente \textit{issue} en el GitHub de la asociación.
+    \item Se decide reservar \textit{20 entradas para los patrocinadores}, que si al final no se usan, se pueden vender.
+    \item Se acuerda sacar \textit{24 entradas early-access} a 10\euro. Estas entradas tienen un precio menor porque todavía no está publicada toda la información en la web, y los compradores van un poco "a ciegas".
+\end{itemize}
+
+\subsection*{Call for Papers}
+
+\begin{itemize}
+    \item Tenemos 4 propuestas de personas extranjeras, probablemente indios:
+    \begin{itemize}
+        \item \href{https://twitter.com/harshulrobo}{Harshul Jain}
+        \item \href{https://twitter.com/m_m_murad}{Mohammad Murad}
+        \item \href{https://www.linkedin.com/in/rahul-arulkumaran}{Rahul Arulkumaran}
+        \item \href{https://www.linkedin.com/in/alizishaan-khatri-32a20637}{Alizishaan Khatri}
+        \item \href{https://www.linkedin.com/in/aabir}{Aabir Abubaker Kar}
+    \end{itemize}
+    \item A día de hoy, después de un correo de bienvenida que hemos enviado, sólo hemos recibido respuesta de \textit{Harshul Jain} y de \textit{Alizishaan Khatri}. Con Harshul Jain no hay ningún problema de desplazamiento, pero Alizishaan Khatri ha solicitado una carta de invitación para poder gestionar su visado.
+    \item Queda pendiente hablar con estas dos últimas personas para ver desde qué país se desplazarían y qué pasaporte tienen.
+    \item Se acuerda tener, al menos, \textit{2 charlas de backup}, por si acaso se nos cae algún ponente de última hora. Juan Ignacio se propone con una ponencia de REDIS. Queda pendiente una segunda charla.
+    \item Sergio ha contactado con dos posibles ponentes de península: \href{https://twitter.com/SoyGema}{Gema Parreño} y \href{https://twitter.com/aljesusg}{Alberto Gutiérrez}. Ellos han confirmado su presencia pero necesitamos financiación para poder cubrir su desplazamiento.
+    \item Juan Ignacio contactará con el \textit{GDG de Canarias} para ver la posibilidad de que ellos puedan cubrir los gastos de estos dos ponentes a cambio de un patrocinio.
+    \item Una vez que finalice el CFP (31 de julio de 2018) se acuerda hacer un mailing a los ponentes seleccionados explicando que \textit{las charlas deben tener 40 minutos más 10 minutos de preguntas}. Así se podrán preparar una ponencia acorde a la duración establecida.
+\end{itemize}
+
+\subsection*{Difusión}
+
+\begin{itemize}
+    \item El \textit{mailing} que estamos haciendo para captar patrocinadores no está dando el fruto esperado. Se acuerda buscar contactos más directos en empresas para que podamos tener más posibilidades de conseguir financiación.
+    \item Se acuerda ir \textit{poniendo en la web del evento los patrocinadores} que ya tenemos confirmados. Para ello se solicitará a los patrocinadores el logotipo de la empresa en formato vectorial o PNG de más de 500px en su defecto.
+    \item Juan Ignacio se ofrece a hacer el \textit{cartel del evento}, pero se acuerda igualmente pedir presupuesto a una diseñadora gráfica para ver si podemos afrontar el pago.
+    \item \textit{Carlos Blé} se ha ofrecido a colaborar puntualmente con la asociación. De este modo, se acuerda proponerle ayuda en la búsqueda de patrocinadores, de manera que él contacte primero con empresas y luego nos deje el contacto para cerrar los detalles.
+    \item Héctor Álvarez asistirá a la EuroPython. Allí asistirá a una comida donde varias asociaciones de Python en Europa estarán juntas para compartir conocimientos. De cara a la difusión se acuerda adaptar \href{https://slides.com/sdelquin/pythoncanarias}{la presentación de la asociación} que se hizo en el PyDay Gran Canaria 2017.
+    \item Se acuerda hacer mailing a los patrocinadores pidiendo información del material publicitario que van a incluir en el \textit{welcome-pack}. Así podemos ir gestionando el contenido del mismo.
+    \item Se podría intentar conseguir \textit{botellas de agua} para incluir en los welcome-pack. Esto nos lleva a contactar con otras empresas: Fuente Alta, Libbys, Embotelladora de Canarias, Arehucas, Coca-Cola, Tirma.
+    \item Queda pendiente hacer el \textit{flyer} del evento, que podría ser la agenda junto con los patrocinadores.
+\end{itemize}
+
+\subsection*{Página web}
+
+\begin{itemize}
+    \item Hay que incluir la \textit{política de privacidad} y las \textit{condiciones legales} en la web.
+    \item Además hay que añadir \textit{casillas de verificación} al hacer la compra de una entrada, en relación a protección de datos.
+    \item Se decide homogeneizar la web de Python Canarias y gestionarlo todo desde la aplicación \textit{Django} que ya se está elaborando para la venta de entradas. Así, tendremos URLs del estilo:
+    \begin{itemize}
+        \item Eventos de la asociación:
+        \begin{itemize}
+            \item \texttt{pythoncanarias.es/events/pydaytf2018/}
+            \item \texttt{pythoncanarias.es/events/pydaytf2018/tickets/}
+            \item \ldots
+        \end{itemize}
+        \item Gestión de socios: \texttt{pythoncanarias.es/members/}
+        \item Ofertas de trabajo: \texttt{pythoncanarias.es/jobs/}
+        \item \ldots
+    \end{itemize}
+\end{itemize}
+
+\section{Cuestiones relativas a la asociación Python Canarias}
+
+\begin{itemize}
+    \item Juan Ignacio comunica que en Agosto empezará a trabajar para \textit{OctopusLab} en Londres. Aún así, él seguirá siendo el presidente de la asociación y seguirá colaborando activamente.
+    \item Dada la marcha de Juan Ignacio a Londres, se hace necesario buscar una nueva dirección fiscal que aportar a la asociación. Quedamos a la espera de la resolución del expediente en el registro de asociaciones canarias.
+    \item Después de haber analizado la situación actual, se decide no solicitar la celebración de la PyConES 2019 en Tenerife.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{20:20h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
