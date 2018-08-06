@@ -1,0 +1,188 @@
+\documentclass[a4paper, 12pt]{article}
+
+    \usepackage[utf8]{inputenc}
+    \usepackage[spanish]{babel}
+    \usepackage{float}
+    \usepackage{hyperref}
+    \usepackage{tocloft}
+    \usepackage{titling}
+    \usepackage{eurosym}
+    
+    \renewcommand{\labelitemi}{$\bullet$}
+    \renewcommand{\labelitemii}{$\circ$}
+    \renewcommand{\labelitemiii}{--}
+    \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+    \newcommand{\specialcell}[2][c]{%
+        \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+    }
+    
+    \setlength{\droptitle}{-10em}
+    
+    \hypersetup{
+        colorlinks=true,
+        linkcolor=black,
+        filecolor=magenta,      
+        urlcolor=cyan,
+    }
+    
+    \hyphenation{Python-Canarias}
+    \hyphenation{Py-Day}
+    
+    \title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+    \date{\textbf{18 de julio de 2018}}
+    \author{
+        Alberto Morales Díaz \and
+        Jesús Miguel Torres Jorge \and
+        Juan Ignacio Rodríguez de León\ \and 
+        Lucas Grillo Lorenzo \and
+        Raúl Marrero Rodríguez \and
+        Sara Báez García \and
+        Sergio Delgado Quintero
+    }
+    
+    \begin{document}
+    
+    \renewcommand{\contentsname}{Orden del día}
+    
+    \maketitle
+    
+    En \textit{San Cristóbal de La Laguna}, siendo las \textit{18:00h} de la fecha arriba indicada se reúnen en las \textit{oficinas de la FGULL - Edificio de Servicios al Alumnado de Anchieta} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+    
+    \tableofcontents
+    
+    \section{Lectura y aprobación, si procede, del acta anterior}
+    
+    Se aprueba el acta anterior.
+    
+    \section{Cuestiones organizativas sobre PyDay 2018}
+    
+    \subsection*{Selección de charlas - Call for papers}
+    
+    \begin{itemize}
+        \item Después de haber evaluado las temáticas de las charlas, el contenido de las mimas, las cuestiones financieras de desplazamiento de los/las ponentes, de los posibles trámites burocráticos en traer a personal extranjero, se ha decidido seleccionar las siguientes:
+        \begin{enumerate}
+            \item Pedro Manuel Ramos Rodríguez - \textit{Google Dialog Flow: Rise of the Machines}.
+            \item Jacobo de Vera - \textit{Data classes en Python 3.7: Empieza a borrar código}.
+            \item Manuel Alejandro Bacallado López - \textit{Python Become Human}.
+            \item Víctor Terrón - \textit{Objetos hashables}.
+            \item Orlandy A. Sánchez Acosta. - \textit{Bioinformática con Python}.
+            \item Fran Reyes - \textit{TDD Listen to the tests}.
+            \item Héctor Manuel Figueras Hernández - \textit{MQTT, comunica tus dispositivos con el mundo}.
+            \item José Manuel González Hernández - \textit{Análisis de genomas de bacterias en el medioambiente}.
+            \item Alex Samarín - \textit{Deploying Python apps on Google Cloud Platform}.
+            \item Harshul Jain - \textit{Implementing Deeplearning Architectures: Tensorflow}
+            \item Simone Marin - \textit{Octoprint, control total para impresión 3D}
+            \item Pablo Galindo Salgado - \textit{¡Oh vosotros los que entráis, abandonad toda esperanza!}.
+            \item Mohammad Murad - \textit{Documenting your API with OpenAPI / Swagger}.
+            \item Dailos Díaz - \textit{¿Qué es GraphQL y por qué se está hablando tanto de él?}.
+            \item Sergio Díaz González - \textit{Introducción a Dash: construcción de aplicaciones de visualización de datos personalizadas}.
+            \item Alejandro Moreno Alberto - \textit{Buscando asesinos en serie en EEUU}.
+            \item Aitor Carrera - \textit{``Cuenta lo que cuenta'', contando pollos con TensorFlow}.
+            \item Sergio Medina Toledo - \textit{Python Magic}.
+            \item Enol Fernández del Castillo - \textit{EGI Notebooks: Jupyter como servicio}.
+        \end{enumerate}
+        \item Dado el número de charlas elegidas, se decide establecer 3 tracks, junto con una charla de apertura y otra de cierre.
+        \item La charla de apertura será la de Víctor Terrón y la charla de cierre será la de Pablo Galindo.
+        \item Cada track tendrá un total de 6 charlas. Es por ello, que necesitamos 20 charlas en total.
+        \item Ahora mismo sólo contamos con 19, pero estamos pendientes de las charlas de \href{https://twitter.com/SoyGema}{Gema Parreño} y \href{https://twitter.com/aljesusg}{Alberto Gutiérrez}, en función de si hay financiación por parte del GDG para traerlos. Se pueden dar 3 situaciones:
+        \begin{enumerate}
+            \item Que no vengan ninguno de los dos ponentes del GDG: En este caso tiraremos de alguna de las \textit{charlas de backup}.
+            \item Que vengan uno de los dos ponentes del GDG: En este caso no habría que hacer nada ya que cubrimos las 20 charlas.
+            \item Que vengan dos de los ponentes del GDG: En este caso habría que quitar alguna de las charlas existentes. Se seleccionará una entre la de \textit{Alex Samarín} y \textit{Héctor Figueras}.
+        \end{enumerate}
+        \item Queda pendiente notificar las charlas seleccionadas y las que no a través de correo electrónico, así como preguntar si las charlas son en español o en inglés.
+        \item Queda pendiente asignar etiquetas a las charlas que permitan una fácil clasificación por parte de los asistentes.
+        \item En la comunicación con los dos ponentes indios seleccionados habrá que comentarles que se pondrá a sus empresas/instituciones como patrocinadores ya que correrán con los gastos de desplazamiento de \textit{Mohammad Murad} y \textit{Harshul Jain}.
+        \item Se ha hecho una ordenación de las charlas atendiendo a su temática y características:
+
+        \begin{tabular}{|p{3.5cm}|p{3.5cm}|p{3.5cm}|}
+            \hline
+            \begin{center}\textbf{Track A}\end{center} &
+            \begin{center}\textbf{Track B}\end{center} &
+            \begin{center}\textbf{Track C}\end{center}\\
+            \hline
+            \multicolumn{3}{|c|}{\specialcell{Víctor Terrón:\\\textit{Objetos hashables}}}\\
+            \hline
+            \textbf{Por definir} & Enol Fernández: \textit{EGI Notebooks} & Orlandy Sánchez: \textit{Bioinformática con Python}\\
+            \hline
+            Mohammad Murad: \textit{OpenAPI / Swagger} & Alex Samarín: \textit{Google Cloud Platform} & José Manuel González: \textit{Genomas de bacterias}\\
+            \hline
+            Pedro Ramos: \textit{Dialogflow} & Dailos Díaz: \textit{GraphQL} & Fran Reyes: \textit{TDD}\\
+            \hline
+            Alejandro Moreno: \textit{Buscando asesinos} & Sergio Medina: \textit{Python Magic} & Simone Marin: \textit{Octoprint}\\
+            \hline
+            Aitor Carrera: \textit{Cuenta lo que cuenta} & Jacobo de Vera: \textit{Dataclasses en Python 3.7} & Manuel Bacallado: \textit{Python Become Human}\\
+            \hline
+            Harshul Jain: \textit{Tensorflow} & Sergio Díaz: \textit{Dash} & Héctor Figueras: \textit{MQTT}\\
+            \hline
+            \multicolumn{3}{|c|}{\specialcell{Pablo Galindo:\\\textit{¡Oh vosotros los que entráis, abandonad toda esperanza!}}}\\
+            \hline
+        \end{tabular}
+    \end{itemize}
+
+    \subsection*{Patrocinio}
+
+    \begin{itemize}
+        \item \textit{Carlos Blé}, como CEO de \textit{Lean Mind}, empresa patrocinadora del PyDay Tenerife, ofrece la posibilidad de sortear algunas camisetas de su empresa al final del evento. Esta propuesta es recogida de forma muy positiva por parte de todos nosotros. Además pondrán pegatinas en el \textit{welcome pack} como parte de su publicidad.
+        \item Sara ha traído de la \textit{EuroPython} un bolso y una botella que también se sortearán al final del evento.
+        \item \textit{Intech Tenerife}, empresa patrocinadora del PyDay Tenerife, nos comenta que podrá pagar el 80\% del patrocinio antes del evento y un 20\% después del mismo, debido a cuestiones legales. Además indica que se deberá firmar un contrato. En cuanto a la publicidad para el \textit{welcome pack} nos harán llegar folletos informativos cuando se acerque la fecha del evento y les digamos el número exacto de asistentes.
+        \item \textit{Mutua Tinerfeña}, empres patrocinadora del PyDay Tenerife, nos traslada que ofrecerá maletines para portátiles y bolígrafos para incorporarlos al \textit{welcome-pack}. Queda pendiente ir a buscar los artículos.
+        \item Sara indica que va a escribir tanto a \textit{Python Software Foundation} como \textit{EuroPython} para solicitar financiación para la celebración del PyDay.
+        \item Queda pendiente definir y comunicar a los patrocinadores Diamante cómo serán los stands de los que dispondrán (mesas, medidas, ubicación, \ldots)
+    \end{itemize}
+
+    \subsection*{Difusión}
+
+    \begin{itemize}
+        \item Habrán 20 entradas tipo \textit{Twin Ticket} a un precio de 20\euro\ que permitirán la asistencia tanto al \textit{JSDay} como al \textit{PyDay}. JSCanarias sacará 10 de estas entradas a la venta, mientras que nosotros sacaremos las otras 10.
+        \item Se decide comprar bolsas de papel blanco (30.80\euro\ x 175 unidades), y poner sello encima con el logotipo de Python Canarias. La empresa es \textit{Distribuciones CERH} (Esther).
+        \item Otra opción para el sorteo de final de evento son tazas con el logotipo de Python Canarias.
+        \item Una vez estudiado el presupuesto de la prima de Sara para la \textit{elaboración del cartel del PyDay Tenerife 2018}, que asciende a 130\euro\ se decide que el diseño se hará desde la propia asociación.
+    \end{itemize}
+
+    \subsection*{Otras cuestiones organizativas}
+
+    \begin{itemize}
+        \item Se decide hacer el catering con \textit{Marrero Sánchez}. Según nos dice la empresa, el lunes 12 de noviembre habría que cerrar el número de comensales, aunque se podría modificar 10 arriba o abajo hasta el jueves 15 de noviembre.
+        \item Juan Ignacio dona \textit{libros de Python} a la asociación. Uno de ellos \textit{``Fluent Python''}, que está en muy buen estado, se incluirá en el sorteo del final del evento.
+        \item Debido a complejidad organizativa, se decide \textit{prescindir de la Zona Lúdico Tecnológica (ZLT)}.
+        \item Para dinamizar el \textit{networking} surge la idea de incorporar a los \textit{welcome packs} algún tipo de \textit{``token''} que obligue a buscar \textit{``homólogos''} entre los asistentes. Esta idea puede ser extensible a logros más complejos.
+        \item Se hace necesario contar con \textit{voluntarios}. Para ello se propone contactar con personas que pudieran estar interesadas y ofrecerles el acceso sin el pago de la entrada.
+    \end{itemize}
+
+    \section{Desarrollo de la web \texttt{pythoncanarias.es}}
+
+    \begin{itemize}
+        \item Se realiza un \textit{diagrama entidad-relación} entre los asistentes que de respuesta a los distintos eventos que pudiera haber en la web.
+        \item Queda pendiente la implementación de estos modelos en \textit{Django}.
+        \item Se acuerda incorporar \texttt{issues} para cualquier tarea a implementar. Es decir, no utilizar \textit{Trello} para cuestiones de programación.
+        \item Cada vez que se vaya a implementar una funcionalidad, se acuerda el siguiente esquema de trabajo:
+        \begin{enumerate}
+            \item Hacer una rama (por ejemplo \texttt{feature-tickets}).
+            \item \texttt{git push}
+            \item \texttt{Pull request}
+            \item Mergear los cambios con \texttt{master} y pasar a producción.
+        \end{enumerate}
+        \item Se acuerda finalizar el desarrollo de \texttt{pythoncanarias.es/events/} en el mes de Agosto.
+    \end{itemize}
+    
+    \section{Ruegos y preguntas}
+    
+    No hay ruegos ni preguntas.
+    
+    % ================================================================================================
+    
+    \vspace{1cm}
+    \hrule
+    \vspace{3mm}
+    
+    Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{20:20h} en lugar y fecha arriba indicados.
+    
+    \begin{flushright}
+    El secretario
+    
+    Sergio Delgado Quintero
+    \end{flushright}
+    
+    \end{document}
+    

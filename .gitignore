@@ -9,3 +9,5 @@
 *.out
 *.toc
 *.kdbx
+*.synctex.gz
+.vscode
