@@ -3,6 +3,7 @@
 **.pyc
 **.autosave
 *.lock
+!Pipfile.lock
 *.odt#
 *.aux
 *.log
