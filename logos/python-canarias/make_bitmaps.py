@@ -1,21 +1,6 @@
 import subprocess
 from pathlib import Path
-
-
-FULL_BITMAP_SIZES = (
-    (372, 128),
-    (744, 256),
-    (1116, 384),
-    (1488, 512)
-)
-
-SOLO_BITMAP_SIZES = (
-    (64, 64),
-    (128, 128),
-    (256, 256),
-    (512, 512),
-    (1024, 1024)
-)
+import yaml
 
 
 class SvgLogo():
@@ -33,16 +18,21 @@ class SvgLogo():
         )
 
 
-def build(output_dir='bitmaps'):
+def build():
+    with open('config.yaml') as f:
+        try:
+            config = yaml.load(f)
+        except yaml.YAMLError as err:
+            print(err)
     cwd = Path('.')
-    output_path = cwd / output_dir
+    output_path = cwd / config.get('output_dir', 'bitmaps')
     output_path.mkdir(exist_ok=True)
 
     for file in cwd.glob('*.svg'):
         if file.stem.endswith('solo'):
-            sizes = SOLO_BITMAP_SIZES
+            sizes = config['bitmap_sizes']['solo']
         else:
-            sizes = FULL_BITMAP_SIZES
+            sizes = config['bitmap_sizes']['full']
         for size in sizes:
             logo = SvgLogo(file, *size, output_path)
             logo.topng()
