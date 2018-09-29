@@ -1,0 +1,150 @@
+\documentclass[a4paper, 12pt]{article}
+
+    \usepackage[utf8]{inputenc}
+    \usepackage[spanish]{babel}
+    \usepackage{float}
+    \usepackage{hyperref}
+    \usepackage{tocloft}
+    \usepackage{titling}
+    \usepackage{eurosym}
+    \usepackage{bookmark}
+    
+    \renewcommand{\labelitemi}{$\bullet$}
+    \renewcommand{\labelitemii}{$\circ$}
+    \renewcommand{\labelitemiii}{--}
+    \renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+    \newcommand{\specialcell}[2][c]{%
+        \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+    }
+    
+    \setlength{\droptitle}{-10em}
+    
+    \hypersetup{
+        colorlinks=true,
+        linkcolor=black,
+        filecolor=magenta,      
+        urlcolor=cyan,
+    }
+    
+    \hyphenation{Python-Canarias}
+    \hyphenation{Py-Day}
+    \hyphenation{Py-thon}
+    
+    \title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+    \date{\textbf{18 de julio de 2018}}
+    \author{
+        Alejandro Samarín Pérez \and
+        Jesús Miguel Torres Jorge \and
+        Juan Ignacio Rodríguez de León\ \and 
+        Raúl Marrero Rodríguez \and
+        Sara Báez García \and
+        Sergio Delgado Quintero
+    }
+    
+    \begin{document}
+    
+    \renewcommand{\contentsname}{Orden del día}
+    
+    \maketitle
+    
+    En \textit{San Cristóbal de La Laguna}, siendo las \textit{17:00h} de la fecha arriba indicada se reúnen en la \textit{Escuela Técnica Superior de Ingeniería Informática} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+    
+    \tableofcontents
+    
+    \section{Lectura y aprobación, si procede, del acta anterior}
+    
+    Se aprueba el acta anterior.
+    
+    \section{Estado del registro de la asociación Python Canarias}
+
+    \begin{itemize}
+        \item Referencia del expediente de tramitación: \textbf{Asociación cultural Python Canarias EXP. Nº 18-04}.
+        \item El 18 de mayo de 2018 nos enviaron un requerimiento de subsanación por los siguientes defectos:
+        \begin{itemize}
+            \item DEFICIENCIAS DOCUMENTACIÓN - Actividades: \textit{Deberá desarrollar las actividades que pretende realizar la entidad, de acuerdo a los fines previstos en el texto estatutario}.
+            \item DEFICIENCIAS DOCUMENTACIÓN - Órgano de representación: \textit{Deberá detallar las facultades de cada uno de los miembros del órgano de representación}.
+            \item DEFICIENCIAS DOCUMENTACIÓN - Asamblea general: \textit{No se detallan las competencias de la Asamblea General y la adopción de acuerdos}.
+        \end{itemize}
+        \item Se subsanarán estas cuestiones y se volverá a enviar la documentación.
+    \end{itemize}
+
+    \section{Cuestiones organizativas sobre PyDay 2018}
+
+    \subsection*{Producción de vídeo}
+
+    \begin{itemize}
+        \item Se descarta la \textit{producción de vídeo} con la empresa \textit{TGX}. Se contactará con la empresa que va a hacer la producción de vídeo del \textit{JSDay} y se pedirá presupuesto. En función del coste se evaluará su viabilidad. En caso de que no fuera posible asumirlo, se plantea la posibilidad de contactar con el CIFP César Manrique que disponen del ciclo formativo de grado superior de Producción de Audiovisuales y Espectáculos.
+    \end{itemize}
+
+    \subsection*{Gestión de entradas}
+
+    \begin{itemize}
+        \item Se decide no sacar a la venta entradas de tipo \textit{Early} dada la cercanía del evento.
+        \item Desde JSCanarias nos comunican, que, por problemas de aforo, no podemos sacar a la venta las 10 entradas de tipo \textit{Twin} que daban acceso a asistir al JSDay y al PyDay a un precio reducido. En su día ellos vendieron 10 de entradas de este estilo.
+        \item Se acuerda sacar las entradas de tipo \textit{normal} en dos tandas de 75 entradas.
+        \item Se acuerda incorporar el número de entrada en las entradas. Hasta ahora sólo incorporaban el código QR.
+        \item Se decide que las acreditaciones deberán contenter: logotipo de Python Canarias, nombre del evento, nombre y apellidos del asistente, número de la entrada.
+    \end{itemize}
+
+    \subsection*{Difusión}
+
+    \begin{itemize}
+        \item Queda pendiente la elaboración del cartel y el flyer del evento.
+        \item Se acuerda cambiar el \textit{hashtag del evento} para incorporar el año. Por lo tanto se hará difusión utilizando \texttt{\#PyDayTF18}
+        \item Se decide que el día \textit{1 de octubre} se publicará la web del evento, mientras que la venta de entradas se abrirá el \textit{3 de octubre}.
+    \end{itemize}
+
+    \subsection*{Agenda}
+
+    \begin{itemize}
+        \item Dado que \textit{Mohammad Murad}, uno de los ponentes pendientes de confirmación, no vendrá finalmente al evento, quedan 2 slots por cubrir (ya que uno de ellos estaba vacante desde el principio).
+        \item Las charlas propuestas para cubrir estas 2 vacantes son:
+        \begin{itemize}
+            \item \textit{Desarrolla tu primer módulo en Ansible} por Israel Santana.
+            \item \textit{Kubernetes: infraestructura considerada como código} por Juan Ignacio Rodríguez.
+        \end{itemize}
+        \item Se decide contactar con \textit{Francisco de Sande}, Vicerrector de Tecnologías de la Información y Desarrollo Digital de la Universidad de la Laguna, para ver si estará en el acto de inauguración del evento. Lo que sí podemos confirmar es que estará Juan Ignacio Rodríguez, presidente de la asociación Python Canarias.
+        \item Se acuerda que el \textit{registro de asistentes} se hará en el hall de entrada del edificio de Física y Matemáticas.
+        \item Se intentará que el cátering se haga en el patio exterior (zona de acceso externa) al edificio de Física y Matemáticas.
+    \end{itemize}
+
+    \subsection*{Merchandising}
+
+    \begin{itemize}
+        \item Se acuerda pedir presupuesto para los siguientes artículos de merchandising:
+        \begin{itemize}
+            \item Bolsas de papel.
+            \item Pegatinas (grandes para pegar en las bolsas del welcome-pack y pequeñas para incluir).
+            \item Camisetas con el logotipo de Python Canarias.
+            \item Bolígrafos con el logotipo de Python Canarias.
+        \end{itemize}
+        \item En el caso de que se pueda asumir la adquisición de las camisetas, se contactará por correo electrónico con los asistentes para recopilar información sobre las tallas.
+    \end{itemize}
+    
+    \subsection*{Otras cuestiones}
+
+    \begin{itemize}
+        \item Hay que darle más importancia a la PSF, INTECH y Python España en la zona de entidades de la web.
+        \item Se intentará buscar voluntariado entre el alumnado de la ETSII.
+    \end{itemize}
+    
+    \section{Ruegos y preguntas}
+    
+    No hay ruegos ni preguntas.
+    
+    % ================================================================================================
+    
+    \vspace{1cm}
+    \hrule
+    \vspace{3mm}
+    
+    Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{18:30h} en lugar y fecha arriba indicados.
+    
+    \begin{flushright}
+    El secretario
+    
+    Sergio Delgado Quintero
+    \end{flushright}
+    
+    \end{document}
+    
