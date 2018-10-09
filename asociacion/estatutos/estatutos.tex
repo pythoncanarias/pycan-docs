@@ -10,6 +10,8 @@
 \usepackage{graphicx}
 \usepackage{titlepic}
 \usepackage{remreset}
+\usepackage{bookmark}
+\usepackage{multicol}
 
 \renewcommand{\thechapter}{\Roman{chapter}}
 
@@ -29,6 +31,8 @@
 \makeatother
 
 \setlength{\parskip}{1em}
+\setcounter{tocdepth}{3}
+\setcounter{secnumdepth}{3}
 
 \hypersetup{
     colorlinks=true,
@@ -37,6 +41,8 @@
     urlcolor=cyan,
 }
 
+\hyphenation{Py-thon}
+
 \title{
     \huge \textbf{Python Canarias} \\
     \textit{Estatutos de la asociación} \\
@@ -44,7 +50,8 @@
     \large \textsc{Longa Vita Draconibus}
 }
 \titlepic{\includegraphics[width=.5\textwidth]{logo_python_canarias.png}}
-\date{\textbf{17 de enero de 2018}}
+\date{\textbf{1 de octubre de 2018}}
+\author{}
 
 \begin{document}
 
@@ -62,13 +69,30 @@ De conformidad con el artículo 22 de la Constitución Española se constituye l
 
 La asociación tendrá su domicilio social en la siguiente dirección postal:
 
-{\itshape
-\indent C/ La Higuera, 4 (Edificio Anaga) portal 2B, primero\\
-\indent 38204\\
-\indent San Cristóbal de la Laguna\\
-\indent Tenerife\\
-\indent España
-}
+\begin{quotation}
+
+    Avda. Alonso Fernández de Lugo, 4 - 1A
+
+    Edificio El Mayorazgo
+
+    38300
+
+    La Orotava
+
+    Santa Cruz de Tenerife
+
+    España
+
+    % C/ La Higuera, 4 (Edificio Anaga) Portal 2B, primero
+
+    % 38204
+
+    % San Cristóbal de La Laguna
+
+    % Santa Cruz de Tenerife
+
+    % España
+\end{quotation}
 
 \section{El plazo de duración}
 
@@ -83,6 +107,18 @@ Los fines de la asociación serán los siguientes:
     \item Servir como punto de encuentro de todas aquellas personas interesadas en el uso del lenguaje de programación Python, y de otros lenguajes por extensión.
     \item Dar soporte a quienes deseen aprender y desarrollar el uso del lenguaje de programación Python, y de otros lenguajes por extensión.
     \item Promover la programación como una competencia educativa básica.
+\end{enumerate}
+
+\section{Actividades}
+
+Se desarrollarán toda clase de actividades que permitan a la asociación cumplir sus fines, principalmente dirigidos a la difusión del lenguaje de programación Python, tales como:
+
+\begin{enumerate}
+    \item Organizar cursos/talleres formativos.
+    \item Participar en eventos.
+    \item Vender artículos.
+    \item Colaborar con otras organizaciones.
+    \item Promover ofertas de empleo.
 \end{enumerate}
 
 \section{Ámbito territorial}
@@ -124,10 +160,6 @@ Los socios pueden ser:
     \item Honoríficos/as: Quienes por decisión de la asamblea general colaboren de forma notable en el desarrollo de los fines de la asociación y/o quienes destaquen por ayudar con medios económicos y materiales a la asociación.
 \end{enumerate}
 
-\section{Notificaciones}
-
-El medio de comunicación de notificaciones a los socios será vía correo electrónico y/o página web de la asociación.
-
 \section{Derechos de los socios}
 
 Los socios fundadores y los socios de número tendrán los derechos establecidos en el artículo 13 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
@@ -146,9 +178,19 @@ Los socios estarán obligados a notificar al órgano de representación cualquie
 
 Se podrá consultar la condición de socio a través de un formulario en la web de Python Canarias, donde se ingresará el DNI para su búsqueda.
 
+\section{Notificaciones}
+
+El medio de comunicación de notificaciones a los socios será vía correo electrónico y/o página web de la asociación.
+
+\section{Participación de voluntarios}
+
+El voluntariado es bienvenido para el desarrollo de las actividades de la asociación. Su participación en cada evento será establecida por el órgano de representación, o en su caso, por la asamblea general.
+
 \chapter{Del régimen disciplinario}
 
-\section{Infracciones muy graves}
+\section{Infracciones}
+
+\subsection{Infracciones muy graves}
 
 Son infracciones punibles dentro del orden social y serán consideradas como muy graves:
 
@@ -167,7 +209,7 @@ Son infracciones punibles dentro del orden social y serán consideradas como muy
     \item Todas las infracciones tipificadas como leves o graves y cuyas consecuencias físicas, morales o económicas, plenamente probadas, sean consideradas como muy graves.
 \end{enumerate}
 
-\section{Infracciones graves}
+\subsection{Infracciones graves}
 
 Son infracciones punibles dentro del orden social y serán consideradas como graves:
 
@@ -181,7 +223,7 @@ Son infracciones punibles dentro del orden social y serán consideradas como gra
     \item El incumplimiento de los acuerdos válidamente adoptados por los órganos de la asociación, cuando tengan la consideración de grave.
 \end{enumerate}
 
-\section{Infracciones leves}
+\subsection{Infracciones leves}
 
 Son infracciones punibles dentro del orden social y serán consideradas como leves:
 
@@ -193,7 +235,7 @@ Son infracciones punibles dentro del orden social y serán consideradas como lev
     \item El incumplimiento o las conductas contrarias a las disposiciones estatutarias y/o reglamentarias de la entidad, cuando se consideren como leves.
 \end{enumerate}
 
-\section{Infracciones de los miembros del órgano de representación}
+\subsection{Infracciones de los miembros del órgano de representación}
 
 \begin{enumerate}
     \item Se consideran infracciones muy graves susceptibles de ser cometidas por los miembros del órgano de representación:
@@ -229,23 +271,21 @@ La comisión de las infracciones de carácter leve dará lugar a la amonestació
 
 Las infracciones de los miembros del órgano de representación, en el caso de las muy graves al cese en sus funciones de miembro del órgano de representación y, en su caso, a la inhabilitación para ocupar nuevamente cargos en el órgano de gobierno; en el caso de las graves, el cese durante un período de un mes a un año, en adecuada proporción a la infracción cometida; y si la infracción cometida tiene el carácter de leve en la amonestación, suspensión temporal por el período de un mes y/o pérdida del derecho a voto del socio, esto último conforme al artículo 14 de la LEY 4/2003, de 28 de febrero, de Asociaciones de Canarias.
 
-\section{Procedimiento sancionador}
+\subsection{Procedimiento sancionador}
 
 Para la adopción de medidas disciplinarias acordes a la gravedad de la infracción cometida, se llevará una propuesta de sanción a la siguiente reunión del órgano de representación, que ratificará la misma mediante acuerdo.
 
 A continuación, se notificará la sanción provisional al infractor, el cual dispone de 48 horas para alegaciones. En caso de haber alegaciones, se tratarán en la siguiente reunión del órgano de representación, al final de la cual se acordará una sanción definitiva que será notificada al infractor. En caso de no haber alegaciones, la sanción provisional pasaría a convertirse en definitiva.
 
-\section{Prescripción}
+\subsection{Prescripción}
 
 Las infracciones prescribirán a los tres años, al año o al mes, según se trate de las muy graves, graves o leves, comenzándose a contar el plazo de prescripción al día siguiente a la comisión de la infracción.
 
-\section{Participación de voluntarios}
-
-El voluntariado es bienvenido para el desarrollo de las actividades de la asociación. Su participación en cada evento será establecida por el órgano de representación, o en su caso, por la asamblea general.
-
 \chapter{De los órganos sociales}
 
-\section{Estructura del órgano de representación}
+\section{Órgano de representación}
+
+\subsection{Estructura del órgano de representación}
 
 El órgano de representación será la junta directiva y estará integrada por los siguientes miembros:
 
@@ -257,7 +297,7 @@ El órgano de representación será la junta directiva y estará integrada por l
     \item 4 vocales.      
 \end{enumerate}
 
-\section{Competencias del órgano de representación}
+\subsection{Competencias del órgano de representación}
 
 Las facultades del órgano de representación se extenderán, con carácter general, a todos los actos propios de las finalidades de la asociación, siempre que no requieran, conforme a los presentes estatutos, autorización expresa de la asamblea general.
 
@@ -272,7 +312,7 @@ En particular son facultades del órgano de representación:
     \item Proponer a la asamblea general para su aprobación las cuentas anuales y el presupuesto formulados por el tesorero, así como la memoria de actividades formuladas por el secretario.
 \end{enumerate}
 
-\section{Cargos del órgano de representación}
+\subsection{Cargos del órgano de representación}
 
 Sólo podrán formar parte del órgano de representación los socios.
 
@@ -282,13 +322,100 @@ Los miembros del órgano de representación comenzarán a ejercer sus funciones 
 
 Las vacantes que se produzcan en el órgano de representación, antes de terminar su período de mandato, serán cubiertas por los socios que designe la propia junta directiva, dando cuenta de las sustituciones en la primera asamblea general que se celebre, debiendo ratificarse dicho acuerdo por la asamblea. En caso contrario, se procederá a la elección del socio que debe cubrir la vacante en la misma sesión de la asamblea.
 
-\section{Convocatoria del órgano de representación}
+\subsubsection{Facultades del presidente/a}
+
+Serán facultades del presidente/a: 
+
+\begin{enumerate}
+    \item Ostentar la representación legal de la asociación. 
+    \item Convocar y presidir las reuniones del órgano de representación y de la asamblea general de acuerdo con lo establecido en los presentes Estatutos. 
+    \item Velar por el cumplimiento de los fines sociales. 
+    \item Autorizar con su firma las actas, certificaciones y demás documentos de la Asociación. 
+    \item Solicitar, percibir o hacer efectivas las ayudas, subvenciones o patrocinios que por cualquier concepto provengan de organismos públicos o entidades privadas, así como contratar y convenir con entes públicos de cualquier naturaleza y privados.
+    \item Y cuantas facultades se le confieran, no expresamente asignadas a otros órganos.
+\end{enumerate}
+
+\subsubsection{Facultades del vicepresidente/a}
+
+Serán facultades del vicepresidente/a:
+
+\begin{enumerate}
+    \item Sustituir al presidente/a en caso de vacante, ausencia o enfermedad asumiendo sus funciones, con carácter provisional, cuando el titular cesare en el cargo.
+    \item Las que les deleguen el presidente/a o la asamblea general.
+\end{enumerate}
+
+\subsubsection{Facultades del secretario/a}
+
+Serán facultades del secretario/a:
+
+\begin{enumerate}
+    \item Redactar y certificar las actas de las sesiones de las asambleas generales y del órgano de representación. 
+    \item Llevar el libro del registro de asociados, consignando en ellos la fecha de su ingreso y las bajas que hubieren. 
+    \item Recibir y tramitar las solicitudes de ingreso.
+    \item Llevar una relación del inventario de la asociación.
+    \item Tener bajo su custodia los documentos y archivos de la asociación. 
+    \item Expedir certificaciones. 
+    \item Formular la memoria de actividades.
+\end{enumerate}
+
+\subsubsection{Facultades del tesorero/a}
+
+Serán facultades del tesorero/a:
+
+\begin{enumerate}
+    \item Tendrá a su cargo los fondos pertenecientes a la asociación.
+    \item Elaborar los presupuestos, balances e inventarios de la asociación. 
+    \item Firmará los recibos, cobrará las cuotas de los asociados y efectuará todos los cobros y pagos.
+    \item Llevar y custodiar los libros de contabilidad. 
+    \item Formular las cuentas anuales y el presupuesto.
+\end{enumerate}
+
+\subsubsection{Facultades de los/las vocales}
+
+Los/as vocales tendrán el derecho y la obligación de asistir a las sesiones del órgano de representación con voz y con voto así como, en régimen de delegación, podrán desempeñar las funciones que les confiera el órgano de representación.
+
+\subsection{Convocatoria del órgano de representación}
 
 Las reuniones del órgano de representación se celebrarán previa convocatoria del presidente, acompañada del orden del día consignando lugar, fecha y hora. En el caso de que la convocatoria no incluyese el lugar de celebración se entenderá a todos los efectos el domicilio social.
 
 La toma de decisiones se realizará por mayoría de votos de los socios asistentes.
 
-\section{Convocatoria de la asamblea general}
+\section{Asamblea General}
+
+\subsection{Estructura de la asamblea general}
+
+La asamblea general es el órgano supremo de la asociación, integrada por todos los asociados, que adoptará sus acuerdos bajo el principio democrático de mayorías de los votos válidamente emitidos.
+
+\subsection{Competencias de la asamblea general}
+
+Corresponde a la asamblea general, deliberar y tomar acuerdos sobre los siguientes asuntos:
+
+\begin{enumerate}
+    \item Examinar y aprobar el plan general de actuación y la memoria anual de actividades que le presente el órgano de representación. 
+    \item Aprobar el presupuesto anual de gastos e ingresos del siguiente año y el estado de cuentas del ejercicio anterior. 
+    \item Decidir sobre la disposición o enajenación de bienes. 
+    \item Elegir y separar a los miembros de el órgano de representación. 
+    \item Solicitar la declaración de utilidad pública o interés público canario.
+    \item Acordar la integración de la asociación en Federaciones o Confederaciones, así como la separación de las mismas. 
+    \item Controlar la actividad de el órgano de representación y aprobar su gestión. 
+    \item Modificar los estatutos. 
+    \item Acordar la disolución de la asociación. 
+    \item Designar la comisión liquidadora en caso de disolución. 
+    \item Acordar la remuneración de los miembros de el órgano de representación, en su caso. 
+    \item Ratificar las altas acordadas por el órgano de representación y conocer las bajas voluntarias de los asociados.
+    \item Resolver, en última instancia, los expedientes relativos a sanción y separación de los asociados, tramitados conforme al procedimiento disciplinario establecido en los presentes Estatutos
+    \item Otras que le sean de su competencia en atención a la normativa aplicable. 
+\end{enumerate}
+
+\subsection{Adopción de acuerdos}
+
+En las asambleas generales actuarán como presidente/a y secretario/a quienes lo sean de el órgano de representación.
+
+Los acuerdos adoptados por la asamblea general serán recogidos en un acta elaborada y firmada por el secretario del órgano de representación y deberá contar con el visto bueno, mediante su firma, del presidente de la asociación.
+
+Cualquier miembro asistente tiene derecho a solicitar que su intervención o propuestas sean incluidas en el acta.
+
+\subsection{Convocatoria de la asamblea general}
 
 La asamblea general deberá ser convocada al menos en sesión ordinaria una vez al año, dentro del primer trimestre anual, incluyendo, al menos, el siguiente punto del orden del día: examinar y aprobar la liquidación anual de las cuentas del ejercicio anterior, el presupuesto del ejercicio corriente y la memoria de actividades del ejercicio anterior.
 
@@ -306,7 +433,7 @@ Los estatutos de la asociación podrán ser modificados cuando resulte convenien
 
 \section{Patrimonio inicial}
 
-El ejercicio económico será anual y su cierre tendrá lugar a 31 de diciembre de cada año.
+La asociación cuenta con un patrimonio inicial de 66,30 euros.
 
 \section{Ejercicio económico}
 
@@ -361,7 +488,7 @@ Acordada la disolución de la asociación, la asamblea general extraordinaria de
 
 \chapter*{Disposición final}
 
-Los presentes estatutos han sido aprobados el mismo día de celebración del acta fundacional, de cuyo contenido dan testimonio y firman al margen de cada una de las hojas que lo integran, las siguientes personas:
+Los presentes estatutos han sido aprobados por las siguientes personas fundadoras de la asociación, y de cuyo contenido dan testimonio:
 
 \begin{table}[H]
     \begin{tabular}{l|l}
@@ -379,5 +506,33 @@ Los presentes estatutos han sido aprobados el mismo día de celebración del act
         \hline
     \end{tabular}
 \end{table}
+
+\begin{flushright}
+    En La Orotava, a 1 de octubre de 2018
+\end{flushright}
+
+\vspace{15mm}
+
+\begin{multicols}{2}
+    \noindent
+    El secretario,
+
+    \vspace{25mm}
+
+    \noindent
+    Fdo.: \textit{Sergio Delgado Quintero}
+
+    \vfill\null
+    \columnbreak
+    \begin{flushright}
+        El presidente,
+    
+        \vspace{25mm}
+    
+        \noindent
+        Fdo.: \textit{Juan Ignacio Rodríguez de León}
+    \end{flushright}
+\end{multicols}
+
 
 \end{document}
