@@ -1,0 +1,112 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+\date{\textbf{16 de octubre de 2018}}
+\author{
+    Alberto Morales Díaz \and
+    Héctor Figueras Hernández \and
+    Jesús Miguel Torres Jorge \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Lucas Grillo Lorenzo \and
+    Raúl Marrero Rodríguez \and
+    Sara Báez García \and
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+En \textit{San Cristóbal de La Laguna}, siendo las \textit{17:00h} de la fecha arriba indicada se reúnen en la \textit{Escuela Técnica Superior de Ingeniería Informática} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cuestiones organizativas sobre PyDay 2018}
+
+\begin{itemize}
+    \item Se ha solicitado presupuesto a varias empresas de todo el \textit{merchandising}/\textit{fungible} que se necesita para el evento. En función de lo que nos contesten se tomará una decisión al respecto. En este apartado se incluyen:
+    \begin{itemize}
+        \item Camisetas.
+        \item Bolígrafos.
+        \item Flyers.
+        \item Roll-up.
+        \item Pegatinas.
+        \item Bolsas para \textit{welcome-pack}.
+    \end{itemize}
+    \item Se acuerda solicitar a Python España el \textit{flyer} de la última \texttt{\#PyConES18} con el objeto de tomar ideas para nuestro flyer.
+    \item El dato que manejamos en relación al \textit{número de bolígrafos} que aporta Mutua Tinerfeña es de 100. Si no diera para repartir 1 bolígrafo por asistente en los welcome-pack entonces los dejaríamos en una mesa para que cada persona coja si le interesa.
+    \item En relación a la \textit{megafonía} para los ponentes, se ve que no es necesario preocuparnos de esto. El Aula Magna disponía de sistema de megafonía y las aulas 11 y 12 no son tan grandes para necesitar megafonía.
+    \item Se acuerda averiguar las dimensiones de las mesas que ofreceremos a los patrocinadores.
+    \item Cabe la posibilidad de incorporar al fotógrafo del evento en el grupo de voluntariado. Se preguntará por ello.
+    \item Finalmente se decide que el alumnado del \textit{CIFP César Manrique} realice la grabación y edición de las charlas.
+    \item Se plantea la posibilidad de que \textit{Kreitek} ofrezca algún bono para el sorteo del final del evento.
+    \item En relación a la grabación de las charlas se acuerda preguntar a Demetrio (profesor del \textit{CIFP César Manrique}) sobre la grabación de las pantallas de los ponentes.
+    \item También se hace necesario preguntar a los ponentes si van a hacer \textit{live-coding}, cuestión a tener en cuenta a la hora de la grabación de las charlas.
+    \item El resto de acuerdos organizativos se trasladan al \href{https://trello.com/b/HrpdbSYG/pyday-2018}{tablero correspondiente en el Trello de la asociación}.
+\end{itemize}
+
+
+\section{Informe sobre la asociación}
+
+\begin{itemize}
+    \item El pasado 10 de octubre la asesoría (\textit{Taoro Consultores}) presentó la subsanación en los estatutos que había sido requerida por el registro de asociaciones canarias.
+    \item Se confirma que \textit{Héctor Álvarez} ha accedido a ser el nuevo secretario de la asociación en sustitución de Víctor Suárez. Se dejará constancia de este cambio en la primera junta de socios.
+    \item Héctor Álvarez renovó el dominio \texttt{pythoncanarias.es} el pasado 15 de octubre.
+    \item Se ha creado un documento de \textit{deudas} en el Drive de la asociación, con lo que va quedando pendiente de pagar a las personas del CORE.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{18:30h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
