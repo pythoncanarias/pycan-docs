@@ -16,10 +16,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="cara-b.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   inkscape:export-filename="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/cara-b.png"
-   inkscape:export-xdpi="96.794601"
-   inkscape:export-ydpi="96.794601">
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/Users/juan.rodriguezdeleonlocal/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/cara-b-big.png"
+   inkscape:export-xdpi="200.05524"
+   inkscape:export-ydpi="200.05524">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -68,19 +68,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.48275959"
-     inkscape:cx="656.58519"
-     inkscape:cy="284.90604"
+     inkscape:zoom="1.0816114"
+     inkscape:cx="390.41858"
+     inkscape:cy="175.04677"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
      inkscape:window-width="1440"
      inkscape:window-height="851"
-     inkscape:window-x="83"
-     inkscape:window-y="138"
+     inkscape:window-x="17"
+     inkscape:window-y="32"
      inkscape:window-maximized="0">
     <sodipodi:guide
        position="70.000001,82.57062"
@@ -130,7 +130,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -194,16 +194,16 @@
        id="circle1814"
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76153845;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <image
-       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/dagobah-planet.png"
+       sodipodi:absref="/Users/juan.rodriguezdeleonlocal/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/dagobah-planet.png"
        xlink:href="dagobah-planet.png"
-       transform="matrix(0.17630824,0,0,0.17630824,132.40493,121.17253)"
-       clip-path="url(#clipPath1804)"
-       width="97.668564"
-       height="97.668564"
-       preserveAspectRatio="none"
-       id="image1799"
+       y="162.66376"
        x="49.78817"
-       y="162.66376" />
+       id="image1799"
+       preserveAspectRatio="none"
+       height="97.668564"
+       width="97.668564"
+       clip-path="url(#clipPath1804)"
+       transform="matrix(0.17630824,0,0,0.17630824,132.40493,121.17253)" />
     <text
        id="text1818"
        y="170.17697"
@@ -231,16 +231,16 @@
        cy="158.47079"
        r="9.6217031" />
     <image
-       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/tatooine-planet.png"
+       sodipodi:absref="/Users/juan.rodriguezdeleonlocal/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/tatooine-planet.png"
        xlink:href="tatooine-planet.png"
-       transform="matrix(0.18809235,0,0,0.18809235,-12.388126,129.81127)"
-       clip-path="url(#clipPath2064)"
-       width="98.526062"
-       height="98.526062"
-       preserveAspectRatio="none"
-       id="image2051"
+       y="103.30208"
        x="70"
-       y="103.30208" />
+       id="image2051"
+       preserveAspectRatio="none"
+       height="98.526062"
+       width="98.526062"
+       clip-path="url(#clipPath2064)"
+       transform="matrix(0.18809235,0,0,0.18809235,-12.388126,129.81127)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555534px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -277,23 +277,22 @@
          y="-15.663515"
          style="font-size:64.38119507px;fill:#84b283;fill-opacity:0.10067115;stroke-width:5.47493649">DAG</tspan></text>
     <image
-       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/hoth-planet.png"
+       sodipodi:absref="/Users/juan.rodriguezdeleonlocal/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/hoth-planet.png"
        xlink:href="hoth-planet.png"
-       transform="matrix(0.39662055,0,0,0.39662055,40.951555,85.270495)"
-       clip-path="url(#clipPath1730)"
-       width="44.276974"
-       height="44.276974"
-       preserveAspectRatio="none"
-       id="image1721"
+       y="162.57188"
        x="75.499931"
-       y="162.57188" />
+       id="image1721"
+       preserveAspectRatio="none"
+       height="44.276974"
+       width="44.276974"
+       clip-path="url(#clipPath1730)"
+       transform="matrix(0.39662055,0,0,0.39662055,40.951555,85.270495)" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Programa"
-     style="display:inline"
-     sodipodi:insensitive="true">
+     style="display:inline">
     <rect
        ry="1"
        rx="1"
@@ -347,7 +346,7 @@
          sodipodi:role="line"
          id="tspan2116"
          x="23.343946"
-         y="56.980175"
+         y="52.213684"
          style="stroke-width:0.40000001" /></text>
     <rect
        ry="1"
@@ -561,20 +560,20 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="73.427788"
+       x="73.992233"
        y="97.291794"
        id="text2618"><tspan
          sodipodi:role="line"
-         x="73.427788"
+         x="73.992233"
          y="97.291794"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777792px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
          id="tspan2616">Dataclasses en Python 3.7: Empieza</tspan><tspan
          sodipodi:role="line"
-         x="73.427788"
+         x="73.992233"
          y="101.52512"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777792px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
          id="tspan1109"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-size:3.52777792px"
    id="tspan1111">a borrar código</tspan> | Jacobo de Vera</tspan></text>
     <text
        xml:space="preserve"
@@ -589,14 +588,14 @@
          id="tspan3007">&quot;Cuenta lo que cuenta&quot;, </tspan><tspan
          sodipodi:role="line"
          x="17.472301"
-         y="99.047882"
+         y="98.62455"
          style="font-size:3.17499995px;stroke-width:0.40000001"
          id="tspan3009">contando pollos con TensorFlow<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial"
    id="tspan3011" /></tspan><tspan
          sodipodi:role="line"
          x="17.472301"
-         y="103.28122"
+         y="102.43456"
          style="font-size:3.17499995px;stroke-width:0.40000001"
          id="tspan3053"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial"
@@ -610,14 +609,14 @@
          sodipodi:role="line"
          x="143.81937"
          y="96.887459"
-         style="stroke-width:0.40000001"
+         style="stroke-width:0.40000001;font-size:3.52777792px"
          id="tspan2632"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-size:3.52777792px"
    id="tspan1246">Python Become Human</tspan> | Manuel</tspan><tspan
          sodipodi:role="line"
          x="143.81937"
          y="101.12079"
-         style="stroke-width:0.40000001"
+         style="stroke-width:0.40000001;font-size:3.52777792px"
          id="tspan1244">Alejandro Bacallado López</tspan></text>
     <text
        id="text2658"
@@ -626,11 +625,11 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan2656"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777792px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
          y="86.959793"
          x="74.976677"
          sodipodi:role="line"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-size:3.52777792px"
    id="tspan1105">Python Magic</tspan> | Sergio Medina Toledo</tspan></text>
     <text
        id="text2666"
@@ -638,17 +637,17 @@
        x="17.378078"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17500013px;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
          y="84.849869"
          x="17.378078"
          sodipodi:role="line"
          id="tspan3001">Buscando asesinos en serie en</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
-         y="89.083199"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17500013px;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         y="88.659866"
          x="17.378078"
          sodipodi:role="line"
          id="tspan3045"><tspan
-   style="font-weight:bold;font-size:3.17499995px;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+   style="font-weight:bold;font-size:3.17500013px;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
    id="tspan3061">EE.UU.</tspan> | Alejandro Moreno Alberto</tspan></text>
     <text
        id="text2674"
@@ -657,82 +656,88 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan2672"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001;font-size:3.52777792px"
          y="85.226761"
          x="143.81937"
          sodipodi:role="line">Octoprint, control total para </tspan><tspan
-         style="stroke-width:0.40000001"
+         style="stroke-width:0.40000001;font-size:3.52777792px"
          y="89.460091"
          x="143.81937"
          sodipodi:role="line"
          id="tspan1237"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-size:3.52777792px"
    id="tspan1239">impresión 3D</tspan> | Simone Marín</tspan></text>
     <text
        id="text2698"
-       y="115.68823"
-       x="72.587585"
+       y="115.16637"
+       x="74.717598"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:0;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan2696"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
-         y="115.68823"
-         x="72.587585"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         y="115.16637"
+         x="74.717598"
          sodipodi:role="line">Introducción a Dash: construcción de</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
-         y="119.92156"
-         x="72.587585"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         y="119.3997"
+         x="74.717598"
          sodipodi:role="line"
          id="tspan1117">aplicaciones de visualización de datos</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
-         y="124.1549"
-         x="72.587585"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         y="123.63303"
+         x="74.717598"
          sodipodi:role="line"
          id="tspan1115"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan1119">personalizadas</tspan> | Sergio Díaz González</tspan></text>
     <text
        id="text2706"
-       y="115.17065"
-       x="17.008757"
+       y="115.12331"
+       x="16.09551"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
-         y="115.17065"
-         x="17.008757"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
+         y="115.12331"
+         x="16.09551"
          sodipodi:role="line"
-         id="tspan3017">Implementing Deep Learning</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.17499995px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
-         y="119.40398"
-         x="17.008757"
+         id="tspan3570">Migrando a microservicios, lo</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         y="119.35664"
+         x="16.09551"
          sodipodi:role="line"
-         id="tspan3031">Architectures: TensorFlow</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
-         y="123.63731"
-         x="17.008757"
+         id="tspan3580"><tspan
+           id="tspan3598"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001">que pasó </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+           id="tspan3582">a continuación, te sor-</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.35138902px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.40000001"
+         y="123.58997"
+         x="16.09551"
          sodipodi:role="line"
-         id="tspan3035">Harshul Jain</tspan></text>
+         id="tspan3606"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.35138902px;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   id="tspan3608">prenderá</tspan> | Raúl Marrero Rodríguez</tspan></text>
     <text
        id="text2714"
-       y="115.20753"
-       x="142.23409"
+       y="115.16637"
+       x="143.01686"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.20000005;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;text-anchor:start;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan2712"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001"
-         y="115.20753"
-         x="142.23409"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';stroke-width:0.40000001;font-size:3.35138902px"
+         y="115.16637"
+         x="143.01686"
          sodipodi:role="line">MQTT, comunica tus dispositivos con </tspan><tspan
-         style="stroke-width:0.40000001"
-         y="119.44086"
-         x="142.23409"
+         style="stroke-width:0.40000001;font-size:3.35138902px"
+         y="119.3997"
+         x="143.01686"
          sodipodi:role="line"
          id="tspan1259"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';font-size:3.35138902px"
    id="tspan1281">el mundo</tspan> | Héctor Manuel Figueras</tspan><tspan
-         style="stroke-width:0.40000001"
-         y="123.67419"
-         x="142.23409"
+         style="stroke-width:0.40000001;font-size:3.35138902px"
+         y="123.63303"
+         x="143.01686"
          sodipodi:role="line"
          id="tspan1279">Hernández</tspan></text>
     <rect
@@ -753,7 +758,7 @@
          id="tspan2748"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001"
          y="132.80418"
-         x="107.4386"
+         x="107.43861"
          sodipodi:role="line"><tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold'"
    id="tspan1155">¡Oh, vosotros, los que entráis, abandonad toda esperanza!</tspan> | Pablo Galindo Salgado</tspan></text>
@@ -896,12 +901,12 @@
         <path
            inkscape:connector-curvature="0"
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:1.51181102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m -2.7753906,272.38477 v 7.55859 h 2.40624998 v -7.55859 z"
-           transform="scale(0.26458333)"
+           d="m -2.7753906,272.38477 0,7.55859 2.40624998,0 0,-7.55859 z"
+           transform="scale(0.26458333,0.26458333)"
            id="path2402" />
         <path
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 0.27497926,72.068469 v 1.999877 h 0.6371704 v -1.999877 z"
+           d="m 0.27497926,72.068469 0,1.999877 0.6371704,0 0,-1.999877 z"
            id="rect2393"
            inkscape:connector-curvature="0" />
       </g>
@@ -1031,14 +1036,14 @@
          style="fill:#e6e6e6">
         <path
            id="path1322"
-           transform="scale(0.26458333)"
-           d="m -2.7753906,272.38477 v 7.55859 h 2.40624998 v -7.55859 z"
+           transform="scale(0.26458333,0.26458333)"
+           d="m -2.7753906,272.38477 0,7.55859 2.40624998,0 0,-7.55859 z"
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:1.51181102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
            id="path1324"
-           d="m 0.27497926,72.068469 v 1.999877 h 0.6371704 v -1.999877 z"
+           d="m 0.27497926,72.068469 0,1.999877 0.6371704,0 0,-1.999877 z"
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
@@ -1167,19 +1172,19 @@
          style="fill:#e6e6e6">
         <path
            id="path1372"
-           transform="scale(0.26458333)"
-           d="m -2.7753906,272.38477 v 7.55859 h 2.40624998 v -7.55859 z"
+           transform="scale(0.26458333,0.26458333)"
+           d="m -2.7753906,272.38477 0,7.55859 2.40624998,0 0,-7.55859 z"
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:1.51181102;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
            inkscape:connector-curvature="0" />
         <path
            inkscape:connector-curvature="0"
            id="path1374"
-           d="m 0.27497926,72.068469 v 1.999877 h 0.6371704 v -1.999877 z"
+           d="m 0.27497926,72.068469 0,1.999877 0.6371704,0 0,-1.999877 z"
            style="opacity:1;fill:#e6e6e6;fill-opacity:0.96862745;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       </g>
     </g>
     <g
-       transform="translate(0,63.046504)"
+       transform="translate(0,63.610948)"
        id="g1421">
       <rect
          style="opacity:1;fill:#000000;fill-opacity:0.96862745;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
