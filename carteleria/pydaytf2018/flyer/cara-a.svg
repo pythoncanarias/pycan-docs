@@ -17,10 +17,10 @@
    version="1.1"
    id="svg8"
    sodipodi:docname="cara-a.svg"
-   inkscape:version="0.91 r13725"
-   inkscape:export-filename="./cara-a-big.png"
-   inkscape:export-xdpi="200.05524"
-   inkscape:export-ydpi="200.05524">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="./cara-a.png"
+   inkscape:export-xdpi="96.036186"
+   inkscape:export-ydpi="96.036186">
   <defs
      id="defs2">
     <linearGradient
@@ -839,11 +839,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77420383"
-     inkscape:cx="204.51915"
-     inkscape:cy="468.18601"
+     inkscape:zoom="1.5849267"
+     inkscape:cx="283.53195"
+     inkscape:cy="210.64006"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer7"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -941,9 +941,8 @@
        id="text1692"
        y="84.348282"
        x="88.867531"
-       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
-       xml:space="preserve"
-       sodipodi:linespacing="0%"><tspan
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.49465179px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';stroke-width:1.03736615"
          y="84.348282"
          x="88.867531"
@@ -958,31 +957,29 @@
        id="text1726"
        y="75.383369"
        x="123.12933"
-       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
-       xml:space="preserve"
-       sodipodi:linespacing="0%"><tspan
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
+       xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.49465179px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';stroke-width:1.03736615"
          y="75.383369"
          x="123.12933"
          id="tspan1724"
          sodipodi:role="line">Y</tspan></text>
     <image
-       sodipodi:absref="code.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
        xlink:href="code.png"
-       y="-71.593102"
-       x="-67.592598"
-       id="image1797"
-       preserveAspectRatio="none"
-       height="139.91687"
+       clip-path="none"
        width="151.1584"
-       clip-path="none" />
+       height="139.91687"
+       preserveAspectRatio="none"
+       id="image1797"
+       x="-67.592598"
+       y="-71.593102" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:3.38666654px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.03736615"
        x="111.5582"
        y="37.545143"
-       id="text1801"
-       sodipodi:linespacing="0%"><tspan
+       id="text1801"><tspan
          sodipodi:role="line"
          id="tspan1799"
          x="111.5582"
@@ -1042,9 +1039,8 @@
          id="text6468"
          y="602.9303"
          x="377.13794"
-         style="font-style:normal;font-weight:normal;font-size:16.68540955px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.39045072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"
-         sodipodi:linespacing="0%"><tspan
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.39045072px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.4589653px;line-height:126.99999809%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;fill:#231d19;fill-opacity:1;stroke-width:1.39045072px"
            id="tspan6474"
            y="602.9303"
@@ -1052,11 +1048,10 @@
            sodipodi:role="line">17 Noviembre 2018</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:16.88701057px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.40725076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.40725076px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="384.4429"
          y="391.81668"
-         id="text6493"
-         sodipodi:linespacing="0%"><tspan
+         id="text6493"><tspan
            sodipodi:role="line"
            x="384.4429"
            y="391.81668"
@@ -1066,10 +1061,9 @@
          id="text6501"
          y="452.64453"
          x="389.21082"
-         style="font-style:normal;font-weight:normal;font-size:17.12110329px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.42675841px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.42675841px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"
-         transform="scale(0.99747737,1.002529)"
-         sodipodi:linespacing="0%"><tspan
+         transform="scale(0.99747737,1.002529)"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:67.31759644px;line-height:126.99999809%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;fill:#231d19;fill-opacity:1;stroke-width:1.42675841px"
            id="tspan6507"
            y="452.64453"
@@ -1077,11 +1071,10 @@
            sodipodi:role="line">YOUR INNER</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:17.53910637px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.46159244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:1.46159244px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          x="383.39981"
          y="555.91052"
-         id="text6509"
-         sodipodi:linespacing="0%"><tspan
+         id="text6509"><tspan
            sodipodi:role="line"
            x="380.62869"
            y="555.91052"
@@ -1089,7 +1082,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:126.38998413px;line-height:126.99999809%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;letter-spacing:-5.54222441px;text-anchor:middle;fill:#231d19;fill-opacity:1;stroke-width:1.46159244px">POWER</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:58.43543625px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;opacity:0.75;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:3.72698474;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;opacity:0.75;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:3.72698474;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="text2971"
          y="632.90259"
          x="384.25351"><tspan
@@ -1097,14 +1090,14 @@
            id="tspan2969"
            x="384.25351"
            y="632.90259"
-           style="font-size:26.29594612px;fill:#231d19;fill-opacity:1;stroke-width:3.72698474">Edificio de Física y Matemáticas</tspan></text>
+           style="font-size:26.29594612px;line-height:1.25;fill:#231d19;fill-opacity:1;stroke-width:3.72698474">Edificio de Física y Matemáticas</tspan></text>
       <text
          x="384.28156"
          y="667.4043"
          id="text2980"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:63.75398254px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;opacity:0.75;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:4.0661993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;opacity:0.75;fill:#231d19;fill-opacity:1;stroke:none;stroke-width:4.0661993;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-size:31.87699127px;fill:#231d19;fill-opacity:1;stroke-width:4.0661993"
+           style="font-size:31.87699127px;line-height:1.25;fill:#231d19;fill-opacity:1;stroke-width:4.0661993"
            y="667.4043"
            x="384.28156"
            id="tspan2978"
@@ -1139,7 +1132,7 @@
          sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#5a5653;fill-opacity:1;stroke:none;stroke-width:3.18897653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6464)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#5a5653;fill-opacity:1;stroke:none;stroke-width:3.18897653;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter6464)"
          x="315.77319"
          y="729.1416"
          id="text1521"
@@ -1148,7 +1141,7 @@
            id="tspan1519"
            x="315.77319"
            y="729.1416"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';fill:#5a5653;fill-opacity:1;stroke-width:3.18897653">pythoncanarias.es/events</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:'Futura XBlk BT';-inkscape-font-specification:'Futura XBlk BT';fill:#5a5653;fill-opacity:1;stroke-width:3.18897653">pythoncanarias.es/events</tspan></text>
     </g>
     <g
        id="layer5"
@@ -1157,60 +1150,59 @@
        transform="matrix(0.09541547,0,0,0.09541547,139.28684,150.72611)">
       <text
          xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:13.67959499px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.93000034;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06871843"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:0.93000034;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.06871843"
          x="270.96591"
          y="104.65773"
-         id="text3307"
-         sodipodi:linespacing="0%"><tspan
+         id="text3307"><tspan
            sodipodi:role="line"
            id="tspan3305"
            x="270.96591"
            y="104.65773"
            style="font-size:42.74873352px;line-height:1.25;stroke-width:1.06871843"> </tspan></text>
       <image
-         sodipodi:absref="code.png"
-         xlink:href="code.png"
-         transform="matrix(1.1923387,0,0,1.1923387,749.44245,-412.01728)"
-         clip-path="url(#clipPath4286)"
-         width="507.43076"
-         height="469.69354"
-         preserveAspectRatio="none"
-         id="image4284"
-         x="-511.26379"
-         y="233.72275" />
-      <image
-         sodipodi:absref="code.png"
-         xlink:href="code.png"
-         width="507.43076"
-         height="469.69354"
-         preserveAspectRatio="none"
-         id="image4275"
-         x="-476.45593"
-         y="-135.05911"
-         clip-path="url(#clipPath4277)"
-         transform="matrix(1.1923387,0,0,1.1923387,611.86902,168.36877)" />
-      <image
-         sodipodi:absref="code.png"
-         xlink:href="code.png"
-         transform="matrix(1.1296278,0,0,1.1296278,1317.2915,164.68078)"
-         y="-215.02191"
-         x="-877.54657"
-         id="image1716"
-         preserveAspectRatio="none"
-         height="495.76843"
-         width="535.60065"
-         clip-path="url(#clipPath1718)" />
-      <image
-         sodipodi:absref="code.png"
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
          xlink:href="code.png"
          y="233.72275"
          x="-511.26379"
-         id="image1778"
+         id="image4284"
          preserveAspectRatio="none"
          height="469.69354"
          width="507.43076"
          clip-path="url(#clipPath4286)"
-         transform="matrix(1.1923387,0,0,1.2113115,1128.9749,-420.07566)" />
+         transform="matrix(1.1923387,0,0,1.1923387,749.44245,-412.01728)" />
+      <image
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
+         xlink:href="code.png"
+         transform="matrix(1.1923387,0,0,1.1923387,611.86902,168.36877)"
+         clip-path="url(#clipPath4277)"
+         y="-135.05911"
+         x="-476.45593"
+         id="image4275"
+         preserveAspectRatio="none"
+         height="469.69354"
+         width="507.43076" />
+      <image
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
+         xlink:href="code.png"
+         clip-path="url(#clipPath1718)"
+         width="535.60065"
+         height="495.76843"
+         preserveAspectRatio="none"
+         id="image1716"
+         x="-877.54657"
+         y="-215.02191"
+         transform="matrix(1.1296278,0,0,1.1296278,1317.2915,164.68078)" />
+      <image
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
+         xlink:href="code.png"
+         transform="matrix(1.1923387,0,0,1.2113115,1128.9749,-420.07566)"
+         clip-path="url(#clipPath4286)"
+         width="507.43076"
+         height="469.69354"
+         preserveAspectRatio="none"
+         id="image1778"
+         x="-511.26379"
+         y="233.72275" />
       <path
          inkscape:connector-curvature="0"
          id="path4167"
@@ -1218,17 +1210,17 @@
          d="m 93.064142,83.057845 1.883487,-2.454787 c 0.837109,-1.091017 1.674215,-2.284707 2.511318,-3.58107 0.837109,-1.296369 1.581205,-2.728196 2.232287,-4.29548 0.651086,-1.669972 1.185906,-3.445096 1.604466,-5.325372 0.41854,-1.982947 0.62781,-4.155176 0.62781,-6.516689 0,-2.258849 -0.23253,-3.701256 -0.69758,-4.327223 -0.41855,-0.789265 -0.97662,-1.037332 -1.674225,-0.744199 -0.651071,0.232482 -1.39516,0.842916 -2.232269,1.831302 -0.837103,0.885659 -1.650953,1.843688 -2.44155,2.874088 l -1.813744,2.363897 z M 74.647819,55.158245 98.854131,23.609682 c 3.069389,-4.000396 5.906249,-6.824993 8.510589,-8.473792 2.60433,-1.648821 4.85986,-1.918973 6.7666,-0.810456 1.90675,1.005835 3.39494,3.481257 4.46457,7.426264 1.06963,3.944995 1.60445,9.511106 1.60445,16.698333 0,5.955112 -0.41855,11.839686 -1.25566,17.653723 -0.79061,5.753449 -1.93,11.294088 -3.41818,16.621919 -1.48819,5.225178 -3.32517,10.18622 -5.51096,14.883127 -4.45815,9.35989 -9.74051,13.98902 -16.170946,22.36994 l -0.390226,34.96066 -18.026097,24.00235 -3.512032,-0.61232 z"
          sodipodi:nodetypes="cccccscccccccscccscccccccc" />
       <image
-         sodipodi:absref="mini-texture.png"
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/mini-texture.png"
          xlink:href="mini-texture.png"
-         style="opacity:1"
-         transform="matrix(1.1162816,0,0,1.1736706,-1211.5477,-434.68361)"
-         clip-path="url(#clipPath4472)"
-         y="324.6828"
-         x="1079.0505"
-         id="image4470"
-         preserveAspectRatio="none"
+         width="258.0188"
          height="258.0188"
-         width="258.0188" />
+         preserveAspectRatio="none"
+         id="image4470"
+         x="1079.0505"
+         y="324.6828"
+         clip-path="url(#clipPath4472)"
+         transform="matrix(1.1162816,0,0,1.1736706,-1211.5477,-434.68361)"
+         style="opacity:1" />
       <path
          inkscape:connector-curvature="0"
          id="path1938"
@@ -1247,17 +1239,17 @@
            sodipodi:nodetypes="cccsccsccscccccccccs" />
       </g>
       <image
-         sodipodi:absref="mini-texture.png"
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/mini-texture.png"
          xlink:href="mini-texture.png"
-         width="272.34265"
-         height="272.34265"
-         preserveAspectRatio="none"
-         id="image1818"
-         x="-50.420593"
-         y="227.63998"
-         transform="matrix(-0.01044903,-1.0575193,1.0575193,-0.01044903,70.578053,135.71364)"
+         style="opacity:1"
          clip-path="url(#clipPath1820)"
-         style="opacity:1" />
+         transform="matrix(-0.01044903,-1.0575193,1.0575193,-0.01044903,70.578053,135.71364)"
+         y="227.63998"
+         x="-50.420593"
+         id="image1818"
+         preserveAspectRatio="none"
+         height="272.34265"
+         width="272.34265" />
       <g
          aria-label="A"
          transform="matrix(0.88063594,-1.2524628,-0.2201289,1.583128,38.53394,-66.260278)"
@@ -1271,16 +1263,16 @@
            sodipodi:nodetypes="cccsccsccscccccccs" />
       </g>
       <image
-         sodipodi:absref="code.png"
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/code.png"
          xlink:href="code.png"
-         transform="matrix(1.1296278,0,0,1.1296278,1249.8076,-226.9499)"
-         y="-77.438881"
-         x="-866.68475"
-         id="image1704"
-         preserveAspectRatio="none"
-         height="495.76843"
+         clip-path="url(#clipPath1710)"
          width="535.60065"
-         clip-path="url(#clipPath1710)" />
+         height="495.76843"
+         preserveAspectRatio="none"
+         id="image1704"
+         x="-866.68475"
+         y="-77.438881"
+         transform="matrix(1.1296278,0,0,1.1296278,1249.8076,-226.9499)" />
       <g
          aria-label="D"
          transform="matrix(0.67877884,-1.1083906,0,1.4732339,0,-15)"
@@ -1294,17 +1286,17 @@
            sodipodi:nodetypes="ccscscccccccsscssc" />
       </g>
       <image
-         sodipodi:absref="mini-texture.png"
+         sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/mini-texture.png"
          xlink:href="mini-texture.png"
-         width="272.34265"
-         height="272.34265"
-         preserveAspectRatio="none"
-         id="image1785"
-         x="5.9735751"
-         y="91.313248"
-         transform="matrix(-0.01044903,-1.0061105,1.0575193,0.22561121,58.688338,135.02332)"
+         style="opacity:1"
          clip-path="url(#clipPath4485)"
-         style="opacity:1" />
+         transform="matrix(-0.01044903,-1.0061105,1.0575193,0.22561121,58.688338,135.02332)"
+         y="91.313248"
+         x="5.9735751"
+         id="image1785"
+         preserveAspectRatio="none"
+         height="272.34265"
+         width="272.34265" />
       <g
          id="g4411"
          transform="translate(3.5223935,-16.007687)">
@@ -1315,17 +1307,17 @@
            inkscape:connector-curvature="0"
            sodipodi:nodetypes="cccccccccccccc" />
         <image
-           sodipodi:absref="mini-texture.png"
+           sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/mini-texture.png"
            xlink:href="mini-texture.png"
-           width="258.0188"
-           height="258.0188"
-           preserveAspectRatio="none"
-           id="image4358"
-           x="791.26019"
-           y="430.23343"
-           clip-path="url(#clipPath4400)"
+           style="opacity:1"
            transform="matrix(1.0929859,0,0,1.1597833,-777.11326,-540.47703)"
-           style="opacity:1" />
+           clip-path="url(#clipPath4400)"
+           y="430.23343"
+           x="791.26019"
+           id="image4358"
+           preserveAspectRatio="none"
+           height="258.0188"
+           width="258.0188" />
         <path
            sodipodi:nodetypes="cccccccccc"
            inkscape:connector-curvature="0"
@@ -1343,17 +1335,17 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1000%;font-family:'Futura LT ExtraBold';-inkscape-font-specification:'Futura LT ExtraBold, ';letter-spacing:0px;word-spacing:0px;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.06667316px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 205.77471,44.460444 3.57201,-3.388771 10.89458,-15.778861 4.12659,1.538643 11.75385,88.189505 0.39022,51.80292 -19.03881,16.20843 -4.63582,0.0281 4.29248,-47.90067 -37.50811,-65.927977 13.59176,-18.965814 2.56844,0.828652 23.0752,48.295147 z" />
         <image
-           sodipodi:absref="mini-texture.png"
+           sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/mini-texture.png"
            xlink:href="mini-texture.png"
-           style="opacity:1"
-           transform="matrix(1.0929859,0,0,1.1597833,-777.11326,-540.47703)"
-           clip-path="url(#clipPath4400)"
-           y="430.23343"
-           x="791.26019"
-           id="image4415"
-           preserveAspectRatio="none"
+           width="258.0188"
            height="258.0188"
-           width="258.0188" />
+           preserveAspectRatio="none"
+           id="image4415"
+           x="791.26019"
+           y="430.23343"
+           clip-path="url(#clipPath4400)"
+           transform="matrix(1.0929859,0,0,1.1597833,-777.11326,-540.47703)"
+           style="opacity:1" />
         <path
            d="m 193.1642,50.10871 c 7.21002,15.03291 17.87136,36.219214 22.60017,52.20867 l -13.2065,-60.059751 18.56491,-18.362891 12.14407,92.091772 1.17068,48.68112 -21.72347,18.96813 0,-49.46157 -37.50813,-65.927973 z"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:1000%;font-family:'Futura LT ExtraBold';-inkscape-font-specification:'Futura LT ExtraBold, ';letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4362);fill-opacity:1;stroke:none;stroke-width:1.1258893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -1447,15 +1439,15 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166698px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.40000001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        x="23.343946"
        y="52.213684"
        id="text2118"><tspan
          sodipodi:role="line"
          id="tspan2116"
-         x="23.343946"
-         y="56.980175"
-         style="stroke-width:0.40000001" /></text>
+         x="24.077751"
+         y="52.213684"
+         style="font-size:5.29166698px;line-height:1.25;stroke-width:0.40000001"> </tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1513,15 +1505,15 @@
        y="70.021782"
        style="display:inline;opacity:0.93000034" />
     <image
-       sodipodi:absref="../cartel/PSF-Logo.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/PSF-Logo.png"
        xlink:href="../cartel/PSF-Logo.png"
-       style="display:inline"
-       y="34.737923"
-       x="21.286299"
-       id="image1911"
-       preserveAspectRatio="none"
+       width="33.070866"
        height="12"
-       width="33.070866" />
+       preserveAspectRatio="none"
+       id="image1911"
+       x="21.286299"
+       y="34.737923"
+       style="display:inline" />
     <g
        transform="matrix(0.1056338,0,0,0.1056338,81.429826,35.640127)"
        id="g1980"
@@ -1552,51 +1544,51 @@
          d="m 294.9,48.8 h -4.6 v -19 c 0,-2.2 -0.6,-3.8 -1.9,-4.9 -1.3,-1.1 -2.9,-1.7 -5,-1.6 -1.2,0 -2.4,0.3 -3.5,0.7 -1.1,0.4 -2.1,0.9 -2.8,1.4 v 23.4 h -4.6 v -24 c 1.2,-0.8 2.3,-1.6 3.5,-2.3 1.1,-0.6 2.4,-1.2 3.9,-1.6 1.2,-0.3 2.5,-0.6 4,-0.8 1.5,-0.2 3.1,-0.1 4.8,0.3 1.7,0.4 3.2,1.2 4.5,2.3 1.3,1.2 1.9,2.7 1.9,4.6 V 48.8 Z M 240.4,34.3 c 0,-1.9 0.3,-3.7 0.9,-5.4 0.6,-1.7 1.4,-3.2 2.5,-4.5 1.1,-1.3 2.4,-2.3 4,-3.1 1.6,-0.8 3.4,-1.2 5.4,-1.2 2,0 3.8,0.4 5.4,1.2 1.6,0.8 2.9,1.8 4,3.1 1.1,1.3 1.9,2.8 2.5,4.5 0.6,1.7 0.9,3.5 0.9,5.4 0,1.9 -0.3,3.8 -0.8,5.6 -0.5,1.8 -1.3,3.4 -2.4,4.8 -1.1,1.4 -2.4,2.5 -4,3.4 -1.6,0.8 -3.5,1.3 -5.7,1.3 -2.2,0 -4,-0.4 -5.6,-1.3 -1.6,-0.9 -2.9,-2 -4,-3.4 -1.1,-1.4 -1.8,-3 -2.4,-4.8 -0.4,-1.8 -0.7,-3.7 -0.7,-5.6 z m 5.1,0 c 0,1.4 0.1,2.7 0.4,4.2 0.2,1.4 0.6,2.7 1.2,3.9 0.6,1.2 1.4,2.1 2.4,2.9 1,0.8 2.2,1.2 3.7,1.2 1.6,0 2.9,-0.4 3.9,-1.2 1,-0.8 1.8,-1.7 2.3,-2.9 0.6,-1.2 0.9,-2.5 1.1,-3.9 0.2,-1.4 0.3,-2.8 0.3,-4.1 0,-1.3 -0.1,-2.5 -0.4,-3.8 -0.2,-1.3 -0.7,-2.4 -1.3,-3.4 -0.6,-1 -1.4,-1.9 -2.4,-2.6 -1,-0.7 -2.2,-1.1 -3.7,-1.1 -1.6,0.1 -2.9,0.5 -3.9,1.1 -1,0.7 -1.8,1.5 -2.3,2.6 -0.6,1 -1,2.2 -1.2,3.4 0,1.1 -0.1,2.4 -0.1,3.7 z m -10.7,14.5 h -4.7 v -18 c 0,-0.8 -0.1,-1.6 -0.3,-2.5 -0.2,-0.8 -0.5,-1.6 -0.9,-2.2 -0.4,-0.7 -1,-1.2 -1.7,-1.6 -0.7,-0.4 -1.5,-0.6 -2.4,-0.6 -1.5,0 -2.9,0.4 -4.2,1.1 -1.3,0.7 -2.6,1.5 -3.8,2.3 v 21.6 h -4.7 v -43 l 4.7,-1.5 V 24 c 1.4,-1 2.9,-1.8 4.5,-2.4 1.6,-0.6 3.3,-0.9 5.3,-0.9 1.2,0 2.4,0.2 3.4,0.7 1,0.5 1.9,1.1 2.6,1.9 0.7,0.8 1.3,1.7 1.7,2.8 0.4,1.1 0.6,2.2 0.6,3.4 v 19.3 z m -39.5,-25 h -3.2 v -3 h 3.2 V 13 l 4.7,-1.7 v 9.4 h 5.2 v 3 H 200 V 42 c 0,1.9 0.5,3.1 1.4,3.7 0.9,0.6 2.2,0.9 3.8,1 v 2.4 c -3.1,0.3 -5.5,-0.2 -7.3,-1.5 -1.7,-1.3 -2.6,-3.1 -2.6,-5.6 z m -27.2,15.8 c 0,2.2 0.7,3.8 2,4.9 1.4,1.1 3.1,1.6 5.2,1.6 1.2,0 2.5,-0.3 3.8,-0.9 1.3,-0.5 2.3,-1.1 3.1,-1.6 V 20.8 h 4.7 v 25.3 c 0,0.8 0,1.7 -0.1,2.7 0,1 -0.1,1.9 -0.2,2.9 -0.1,1 -0.3,1.9 -0.5,2.8 -0.2,0.9 -0.5,1.7 -0.8,2.3 -0.6,1.1 -1.4,2.1 -2.5,2.9 -1.1,0.8 -2.2,1.5 -3.5,2 -1.3,0.5 -2.6,0.9 -3.9,1.1 -1.3,0.2 -2.6,0.4 -3.8,0.4 l -0.8,-2.9 c 0.9,-0.1 1.9,-0.3 2.9,-0.4 1,-0.2 2.1,-0.4 3,-0.7 1,-0.3 1.9,-0.8 2.7,-1.3 0.8,-0.6 1.5,-1.3 1.9,-2.2 0.3,-0.4 0.5,-1 0.6,-1.6 0.1,-0.7 0.2,-1.3 0.3,-2 0.1,-0.7 0.1,-1.3 0.1,-2 0,-0.7 0,-1.2 0,-1.8 0,-0.3 0,-0.5 0,-0.6 0,-0.1 0,-0.3 0,-0.6 -0.7,0.4 -1.9,0.8 -3.5,1.3 -1.6,0.6 -3.8,0.8 -6.5,0.8 -1.1,0 -2.1,-0.2 -3.2,-0.5 -1.1,-0.4 -2,-0.9 -2.9,-1.6 -0.9,-0.7 -1.6,-1.6 -2.1,-2.6 -0.5,-1 -0.8,-2.2 -0.8,-3.4 V 21.7 l 4.7,-1.6 v 19.5 z m -29.2,-9.7 v 18.8 h -4.7 V 8.5 h 8.5 c 1.5,0 2.9,0 4.1,-0.1 1.6,0 3.1,0.3 4.5,0.9 1.4,0.6 2.6,1.3 3.6,2.3 1,1 1.8,2.1 2.4,3.4 0.6,1.3 0.9,2.7 0.9,4.2 0,1.5 -0.3,3 -0.8,4.2 -0.5,1.3 -1.3,2.4 -2.3,3.4 -0.9,0.9 -2.1,1.7 -3.4,2.2 -1.3,0.5 -2.7,0.8 -4.2,0.8 h -8.6 z m 14.7,-10.7 c 0,-0.9 -0.2,-1.8 -0.6,-2.7 -0.4,-0.9 -0.9,-1.7 -1.6,-2.4 -0.7,-0.7 -1.4,-1.2 -2.3,-1.6 -0.9,-0.4 -1.8,-0.6 -2.8,-0.6 h -7.4 v 14.9 h 7.3 c 2.2,0 4,-0.7 5.4,-2.1 1.3,-1.5 2,-3.3 2,-5.5 z" />
     </g>
     <image
-       sodipodi:absref="../cartel/europython.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/europython.png"
        xlink:href="../cartel/europython.png"
-       style="display:inline"
-       y="51.141869"
-       x="23.658789"
-       id="image2041"
-       preserveAspectRatio="none"
+       width="32.96703"
        height="12"
-       width="32.96703" />
+       preserveAspectRatio="none"
+       id="image2041"
+       x="23.658789"
+       y="51.141869"
+       style="display:inline" />
     <image
-       sodipodi:absref="../cartel/logo_cifp_cesar_manrique.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/logo_cifp_cesar_manrique.png"
        xlink:href="../cartel/logo_cifp_cesar_manrique.png"
-       y="84.914978"
-       x="84.976448"
+       width="31.760563"
+       height="10"
+       preserveAspectRatio="none"
        id="image2120"
-       preserveAspectRatio="none"
-       height="10"
-       width="31.760563" />
+       x="84.976448"
+       y="84.914978" />
     <image
-       sodipodi:absref="../cartel/CANARIASJS_logo.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/CANARIASJS_logo.png"
        xlink:href="../cartel/CANARIASJS_logo.png"
-       y="84.914978"
-       x="29.576389"
-       id="image2166"
-       preserveAspectRatio="none"
+       width="10"
        height="10"
-       width="10" />
+       preserveAspectRatio="none"
+       id="image2166"
+       x="29.576389"
+       y="84.914978" />
     <image
-       sodipodi:absref="../cartel/170726_logoMEDI.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/170726_logoMEDI.png"
        xlink:href="../cartel/170726_logoMEDI.png"
-       y="69.352776"
-       x="103.37631"
-       id="image2212"
-       preserveAspectRatio="none"
+       width="22.1831"
        height="9"
-       width="22.1831" />
-    <image
-       sodipodi:absref="../cartel/Edosoft_Logo.png"
-       xlink:href="../cartel/Edosoft_Logo.png"
-       y="102.96736"
-       x="52.384335"
-       id="image2274"
        preserveAspectRatio="none"
+       id="image2212"
+       x="103.37631"
+       y="69.352776" />
+    <image
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/Edosoft_Logo.png"
+       xlink:href="../cartel/Edosoft_Logo.png"
+       width="44.545456"
        height="7"
-       width="44.545456" />
+       preserveAspectRatio="none"
+       id="image2274"
+       x="52.384335"
+       y="102.96736" />
     <g
        transform="matrix(0.01405192,0,0,0.01405192,33.155149,101.05021)"
        id="g2406">
@@ -1715,59 +1707,59 @@
       </g>
     </g>
     <image
-       sodipodi:absref="../cartel/graphic.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/graphic.png"
        xlink:href="../cartel/graphic.png"
-       y="102.51862"
-       x="101.81275"
+       width="7.7586207"
+       height="9"
+       preserveAspectRatio="none"
        id="image2467"
-       preserveAspectRatio="none"
-       height="9"
-       width="7.7586207" />
+       x="101.81275"
+       y="102.51862" />
     <image
-       sodipodi:absref="../cartel/LeanMind_logo_with_slogan_circle.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/LeanMind_logo_with_slogan_circle.png"
        xlink:href="../cartel/LeanMind_logo_with_slogan_circle.png"
-       y="120.10554"
-       x="61.633316"
+       width="11.650001"
+       height="10"
+       preserveAspectRatio="none"
        id="image2529"
-       preserveAspectRatio="none"
-       height="10"
-       width="11.650001" />
+       x="61.633316"
+       y="120.10554" />
     <image
-       sodipodi:absref="../cartel/MUTUA_TINERFEA_LOGOTIPO_3D_CON_SOMBRA-02.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/MUTUA_TINERFEA_LOGOTIPO_3D_CON_SOMBRA-02.png"
        xlink:href="../cartel/MUTUA_TINERFEA_LOGOTIPO_3D_CON_SOMBRA-02.png"
-       y="85.635483"
-       x="39.652538"
+       width="41.666668"
+       height="10"
+       preserveAspectRatio="none"
        id="image2591"
-       preserveAspectRatio="none"
-       height="10"
-       width="41.666668" />
+       x="39.652538"
+       y="85.635483" />
     <image
-       sodipodi:absref="../cartel/SYSTEM73-logo.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/SYSTEM73-logo.png"
        xlink:href="../cartel/SYSTEM73-logo.png"
-       y="120.41312"
-       x="77.794243"
-       id="image2653"
-       preserveAspectRatio="none"
+       width="29.630772"
        height="9"
-       width="29.630772" />
+       preserveAspectRatio="none"
+       id="image2653"
+       x="77.794243"
+       y="120.41312" />
     <image
-       sodipodi:absref="../cartel/logo_dorada_VTyVazY.png"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/../cartel/logo_dorada_VTyVazY.png"
        xlink:href="../cartel/logo_dorada_VTyVazY.png"
-       y="120.47306"
-       x="116.66074"
+       width="11.010831"
+       height="10"
+       preserveAspectRatio="none"
        id="image2715"
-       preserveAspectRatio="none"
-       height="10"
-       width="11.010831" />
+       x="116.66074"
+       y="120.47306" />
     <image
-       y="120.93066"
-       x="46.554104"
-       id="image1704-7"
-       preserveAspectRatio="none"
-       height="10"
+       sodipodi:absref="/Users/macbook/workarea/pythoncanarias/docs/carteleria/pydaytf2018/flyer/Logo-Taoro.png"
+       xlink:href="Logo-Taoro.png"
        width="9.374999"
-       xlink:href="./cartel/taoro_logo.jpg"
-       sodipodi:absref="./cartel/taoro_logo.jpg" />
+       height="10"
+       preserveAspectRatio="none"
+       id="image1704-7"
+       x="46.554104"
+       y="120.93066" />
     <g
        id="g10"
        transform="matrix(0.10482302,0,0,-0.10482302,-26.867441,170.09189)">
