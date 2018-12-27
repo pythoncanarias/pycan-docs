@@ -1,0 +1,170 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ \textit{Python Canarias}}
+\date{\textbf{27 de diciembre de 2018}}
+\author{
+    Alejandro Rodríguez Casañas \and
+    Alejandro Samarín Pérez \and
+    Héctor Figueras Hernández \and
+    Iván Rodríguez Méndez \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Lucas Grillo Lorenzo \and
+    Raúl Marrero Rodríguez \and
+    Sara Báez García \and
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+En \textit{La Orotava}, siendo las \textit{17:00h} de la fecha arriba indicada se reúnen en la \textit{MyPlace Coworking Tenerife} los miembros de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Evaluación del PyDay 2018}
+
+Analizando las encuestas de satisfacción y la propia experiencia organizativa, se detallan a continuación las \textit{propuestas de mejora} de cara a la próxima edición:
+
+\subsection*{Vídeos de las charlas}
+
+\begin{itemize}
+    \item Fijar una fecha en la que los vídeos deberían estar montados.
+    \item No esperar al finalizar la edición de todos los vídeos para entregarlos. Al contrario, interesa hacer entregas parciales para ir detectando posibles errores y además publicarlos a la mayor brevedad posible.
+    \item Avisar, a priori, de los detalles de maquetación importantes: ubicación, nombres de ponentes, nombres de charlas, estructura, \ldots
+\end{itemize}
+
+\subsection*{Espacios de las charlas}
+
+\begin{itemize}
+    \item Estudiar la posibilidad de hacerlo en la \textit{ESIT} de la \textit{ULL}. A nivel de proyección ofrece ventajas con respecto al Edificio de Física y Matemáticas, ya que hay mayor oscuridad en las aulas y se ve mucho mejor.
+    \item Buscar la forma de oscurecer las aulas y mejorar los proyectores.
+    \item Incorporar sistemas de megafonía incluso en aulas secundarias.
+\end{itemize}
+
+\subsection*{Selección de charlas}
+
+\begin{itemize}
+    \item Aceptar menos charlas y buscar mayor calidad en las mismas.
+    \item Añadir un track de talleres.
+    \item Sería interesante ofertar un \textit{Taller de introducción a la Programación con Python}.
+    \item Para los talleres es necesario que cada asistente traiga su portátil.
+    \item Dar la posibilidad de \textit{charlas lightning} de corta duración para aquellos ponentes que no han sido seleccionados.
+    \item En una primera fase de \textit{Call for Papers} vale con pedir una reseña de la charla, pero una vez seleccionada, si procedería preguntar cuestiones más concretas, con el objetivo de dar una información más completa al asistente.
+    \item Requerir un índice para aquellas charlas finalmente seleccionadas.
+\end{itemize}
+
+\subsection*{Otras cuestiones}
+
+\begin{itemize}
+    \item Dar pautas a ponentes sobre la presentación:
+    \begin{itemize}
+        \item Para código: letra blanca sobre fondo oscuro.
+        \item Tamaño de letra grande.
+        \item Plantilla de presentación (como sugerencia).
+    \end{itemize}
+    \item Separar más la comida de celiacos de la comida del resto de asistentes, por aquello de la posible contaminación.
+    \item Ser más previsores en la adquisición del \textit{merchandising}.
+    \item Cada año se puede compatibilizar \textit{PyDay}s en Tenerife y Gran Canaria. Lo único es separarlos suficientemente en el tiempo.
+    \item Tras cuadrar las cuentas con Python España, el evento quedó con un superhábit de 59,38\euro que Python España transferirá a Python Canarias.
+\end{itemize}
+
+\section{Próximo evento}
+
+En \textbf{Tenerife} se acuerda realizar un \textit{evento tecnológico para mujeres}.
+
+\begin{itemize}
+    \item La fecha acordada es el \textit{23 de marzo de 2019}.
+    \item Se decide hacer un sondeo previo entre los grupos tecnológicos de mujeres para ver el interés que despierta. Las tres opciones que proponemos son:
+    \begin{itemize}
+        \item Taller de \textit{Django Girls}.
+        \item Taller de \textit{introducción a la programación con Python}.
+        \item Taller de \textit{Flask} + (tu \textit{front-end}).
+    \end{itemize}
+    \item Se barajan distintos lugares para su celebración:
+    \begin{itemize}
+        \item Coworking de INTECH en Dársena.
+        \item Alguna biblioteca municipal.
+        \item IAC (esta opción gusta porque tendría un espacio para dejar a niños/niñas).
+    \end{itemize}
+    \item Se propone cobrar \textit{5\euro} como precio de entrada.
+\end{itemize}
+
+En \textbf{Gran Canaria} hay intención de realizar\footnote{No necesariamente en este orden}:
+
+\begin{itemize}
+    \item Taller de micropython.
+    \item PyDay.
+    \item Jornada informal de Python.
+\end{itemize}
+
+\section{Información sobre la asociación}
+
+\begin{itemize}
+    \item Ya se ha dado de alta la asociación tanto en el registro de asociaciones canarias como en la \textit{AEAT}.
+    \item Ya se ha conseguido la creación de la cuenta bancaria de la asociación en \textit{OpenBank}.
+    \item Juan Ignacio asistirá el día \textit{28 de diciembre de 2018} a una reunión de la \textit{Tenerife Tech Alliance}.
+    \item Se ha creado un grupo de Telegram para los miembros de la junta directiva.
+    \item Próximamente se hará una asamblea general para aprobar el cambio de tesorero:
+    \begin{itemize}
+        \item Nuevo tesorero: \textit{Héctor Álvarez Alonso}.
+        \item Nuevo vocal: \textit{Víctor Suárez García}.
+    \end{itemize}
+    \item Se está en conversaciones con \textit{Leopoldo Acosta Sánchez} -- director de la ESIT -- y con \textit{Francisco de Sande} -- vicerrector de nuevas tecnologías de la ULL --, con el objetivo de intentar conseguir un espacio en la ESIT para Python Canarias.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{18:50h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
