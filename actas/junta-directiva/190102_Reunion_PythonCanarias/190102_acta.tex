@@ -1,0 +1,169 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Junta Directiva \\ \textit{Python Canarias}}
+\date{\textbf{2 de enero de 2019}}
+\author{
+    Héctor Álvarez Alonso \and
+    Israel Santana Alemán \and
+    Jaime Iván Juanes Prieto \and
+    Juan Ignacio Rodríguez de León\ \and 
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+Vía \textit{Google Hangouts}, siendo las \textit{19:00h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los miembros de la junta directiva de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cambio de tesorero}
+
+Se aprueba, por unanimidad de los presentes, el cambio de tesorero:\\
+
+\begin{tabular}{|l|l|l|}
+    \hline
+    \bf Persona & \bf Deja el cargo de: & \bf Toma el cargo de:\\
+    \hline
+    Víctor Suárez García & Tesorero & Vocal\\
+    \hline
+    Héctor Álvarez Alonso & Vocal & Tesorero\\
+    \hline
+\end{tabular}
+
+\vspace{3mm}
+
+Por lo tanto el nuevo tesorero de la asociación pasa a ser:\\
+\indent \textbf{Héctor Álvarez Alonso}.
+
+\section{Intervinientes en cuenta bancaria}
+
+Se aprueba, por unanimidad de los presentes, que los intervinientes en la cuenta bancaria de la asociación sean:
+
+\begin{enumerate}
+    \item Juan Ignacio Rodríguez de León.
+    \item Sergio Delgado Quintero.
+    \item Héctor Álvarez Alonso.
+    \item Israel Santana Alemán.
+\end{enumerate}
+
+La activación de la cuenta bancaria con \textit{OpenBank} está en su última fase. El próximo día 3 de enero de 2019 se enviará por correo postal el contrato firmado y la documentación restante.\\
+
+Héctor Álvarez indica que, a medio-largo plazo, habría que plantearse pasar a una \textit{cuenta mancomunada} donde las transferencias requieran de la autorización de, al menos, dos intervinientes de la cuenta.
+
+\section{CORE}
+
+\begin{itemize}
+    \item Se establece la conveniencia de continuar con el CORE: \textit{Comité para la organización y realización de eventos}.
+    \item Se trata de un \textit{``ente''} informal de personas que quieren colaborar de manera destacada con la asociación.
+    \item La junta directiva se reserva el derecho de incluir o excluir a los miembros del CORE.
+\end{itemize}
+
+\section{Poder notarial del presidente}
+
+Dada la ``lejanía'' del presidente Juan Ignacio Rodríguez de León, que actualmente vive en Londres, se hace necesario buscar un mecanismo que permita una mayor agilidad en las gestiones que se realizan en la asociación. La propuesta es un \textit{poder notarial}, sin perjuicio de que en el futuro se plantee un cambio de presidente en el caso de que alguien se quisiera presentar al cargo.\\
+
+Se aprueba, por unanimidad de los presentes, expedir un poder notarial del presidente Juan Ignacio Rodríguez de León facultando al secretario Sergio Delgado Quintero por tiempo indefinido en todo lo referente a la asociación:
+
+\begin{itemize}
+    \item Gestiones con la administración pública.
+    \item Solicitudes de ayudas/subvenciones.
+    \item Contrataciones.
+    \item Trámites bancarios.
+    \item Solicitud de certificado digital.
+\end{itemize}
+
+\section{Gestión de los socios}
+
+Se plantea la necesidad de empezar a recibir socios (no fundadores). Para ello debemos poner en marcha una aplicación \textit{CRUD} dentro de la web donde recoger la información de los socios (\href{https://github.com/pythoncanarias/web/issues/160}{issue\#160}).\\
+
+También se comenta la necesidad de ofrecer ``algo a cambio'' de hacerse socio, para poder captar a más gente. En este sentido se aportan algunas ideas:
+
+\begin{itemize}
+    \item Permitir escribir en el \href{https://medium.com/pythoncanarias}{blog} de Python Canarias (publicación tras revisión).
+    \item Regalar una \textit{taza} con el logo de Python Canarias.
+    \item Descuentos en eventos organizados por la asociación.
+    \item Acceso a entradas ``early'' para los eventos organizados por la asociación.
+\end{itemize}
+
+\section{Colaboración en el desarrollo de la web de Python Canarias}
+
+Necesitamos seguir colaborando en el desarrollo de la web de Python Canarias. Es una herramienta muy potente para todas las tareas que se hacen en la asociación y nos permite automatizar procesos. Las tareas pendientes están recogidas en las \href{https://github.com/pythoncanarias/web/issues}{``issues'' de GitHub}.\\
+
+Israel Santana comenta que podría proponer la realización de algunas de estas ``issues'' en las \textit{Katas de Python} que coordina y que se están celebrando periódicamente en Las Palmas de Gran Canaria.\\
+
+Sergio Delgado indica que, ante la falta de desarrolladores ``front-end'' para la web de Python Canarias, ha conseguido implicar a \href{https://www.desarrollocometa.com/}{Desarrollo Cometa}, quienes se han ofrecido de manera desinteresada a colaborar.
+
+\section{Espacio físico para Python Canarias}
+
+Sergio Delgado comenta que tras conversaciones con Francisco de Sande (vicerrector de nuevas tecnologías de la ULL) y con Leopoldo Acosta (director de la ESIT) no se ha conseguido un espacio en la ESIT.\\
+
+Se propone consultar la viabilidad de algún espacio en el edificio CajaCanarias que está en Anchieta. En la primera planta existen despachos vacíos que podrían ser muy adecuados para lo que buscamos.\\
+
+También se considera necesario mantener dos espacios (uno en Gran Canaria y otro en Tenerife) por cuestiones de operatividad.
+
+\section{Tenerife Tech Alliance}
+
+El pasado 28 de diciembre Juan Ignacio Rodríguez y Sergio Delgado asistieron -- en representación de Python Canarias -- a una reunión de la \textit{Tenerife Tech Alliance} en La Laguna (\href{https://docs.google.com/document/d/1l8pVGLe_IQY4QCnvm1t4-mjPD1-L817cCCf1quSOhmc/edit?usp=sharing}{enlace al acta}).
+
+\section{Próximos eventos de la asociación}
+
+Desde Gran Canaria se orginazará un PyLiques en febrero de 2019. Desde Tenerife se organizará un evento para mujeres en marzo de 2019.
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{20:15h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
