@@ -1,0 +1,120 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Junta Directiva \\ \textit{Python Canarias}}
+\date{\textbf{20 de junio de 2019}}
+\author{
+    Israel Santana Alemán \and
+    Jaime Iván Juanes Prieto \and
+    Juan Ignacio Rodríguez de León \and 
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+Vía \textit{Google Hangouts}, siendo las \textit{20:30h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los miembros de la junta directiva de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Cuestiones relativas al PyDay Gran Canaria 2019}
+
+\subsection*{Fecha de celebración}
+
+Se acuerda celebrar el PyDay Gran Canaria 2019 (\texttt{\#PyDayGC19}) el día \textit{16 de noviembre de 2019}.
+
+\subsection*{Lugar de celebración}
+
+Durante el mes de mayo se estuvo en conversaciones con la Universidad de Las Palmas de Gran Canaria (ULPGC) para la posible celebración en sus instalaciones del \texttt{\#PyDayGC19}. Después de una serie de negociaciones la ULPGC solicitaba el pago de, al menos, el sueldo de los conserjes que abrieran las dependencias el citado día. Al no estar de acuerdo con esta condición se acordó no hacerlo en esta localización.\\
+
+Se ha iniciado una nueva vía de negociación con la \href{https://www.spegc.org/}{Sociedad de Promoción Económica de Gran Canaria} (SPEGC). Iván Juanes e Israel Santana son las personas que han estado más en contacto con \textit{Carlos Alberto Mendieta Pino}, técnico de la SPEGC.\\
+
+La SPEGC pone a disposición dos ubicaciones:
+
+\begin{itemize}
+    \item \href{https://www.spegc.org/space/incube/}{Incube} que cuenta con una sala grande para 30 personas y otra más pequeña de 12 personas. Ambas salas están separadas por una pared móvil con lo que se podría conseguir una sala para más de 40 personas si las juntamos.
+    \item \href{https://www.spegc.org/empresas-y-emprendedores/cdtic/}{CDTIC} que cuenta con una sala principal con capacidad para 120 personas y una sala de formación para unas 40 personas.
+\end{itemize}
+
+El espacio Incube ya se ha reservado para el viernes 15 de noviembre por si quisiéramos desarrollar algún tipo de taller.
+
+\subsection*{SPEGC}
+
+La SPEGC nos propone dos posibles modalidades de desarrollo del evento:
+
+\subsubsection*{Modalidad A}
+
+En esta modalidad la SPEGC figuraría como organizador del evento y Python Canarias sería entidad colaboradora. Habría que preparar un presupuesto que, si procede, sería aprobado por la SPEGC. Ellos asumirían dichos gastos y también llevarían toda la gestión del evento. Habría que cumplimentar un formulario de la actividad y firmar una declaración responsable. Sería posible facturar a la SPEGC nuestros servicios por organización/gestión del evento.
+
+\subsubsection*{Modalidad B}
+
+En esta modalidad Python Canarias figuraría como organizador del evento y la SPEGC sería entidad colaboradora. La diferencia es que en esta modalidad Python Canarias tendría que adelantar todo el dinero y, una vez finalizado el evento (pasados 40 días), la SPEGC, si procede, ingresaría a Python Canarias los gastos ocasionados por el \texttt{\#PyDayGC19}. La carga burocráctica en esta modalidad es aún mayor.
+
+\subsubsection*{Decisión}
+
+Hemos descartado la modalidad B ya que no podemos afrontar por adelantado los gastos generados por la celebración del evento. Hemos apostado por la modalidad A, no sin ciertas reticencias. De alguna forma se pierde el control del evento en favor de una menor carga de trabajo. No es menos cierto que, a día de hoy, en Gran Canaria tenemos una carencia de efectivos realmente implicados en los eventos de la comunidad Python Canarias, y podría ser una manera de empezar a arrancar.\\
+
+Quedan pendientes ciertos aspectos que aclarar con la SPEGC. Uno de ellos es qué pasaría con terceros patrocinadores que encontremos.
+
+\subsection*{Call for papers}
+
+Para poder empezar a difundir el evento necesitamos confirmación de la SPEGC y tendremos que esperar hasta el \textit{15 de julio} para la comunicación.\\
+
+Con la idea de no retrasar demasiado la gestiones, se decide contactar con posibles ponentes externos para ver si estarían dispuestos a dar alguna charla en \texttt{\#PyDayGC19}. Más adelante se abriría el \textit{Call for papers} de forma pública. Queremos hacer un mayor esfuerzo que en la edición anterior por incorporar \textit{ponentes mujeres}. Para nosotros es una prioridad. En este sentido Juan Ignacio Rodríguez ya ha tanteado a \href{https://twitter.com/maidotgimenez}{Mai Giménez} (desarrolladora de Google y secretaria de Python España) y a \href{https://twitter.com/ianozsvald}{Ian Osvald} (autor del libro High Performance Python). Ambos han mostrado buena predisposición. Seguiremos buscando posibles ponentes.
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{23:00h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
