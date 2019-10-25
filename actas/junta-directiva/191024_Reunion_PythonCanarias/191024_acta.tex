@@ -1,0 +1,96 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Junta Directiva \\ \textit{Python Canarias}}
+\date{\textbf{24 de octubre de 2019}}
+\author{
+    Juan Ignacio Rodríguez de León \and 
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+Vía \textit{Google Hangouts}, siendo las \textit{20:00h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los miembros de la junta directiva de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Formación Python para programa impulsado por la EOI}
+
+\subsection*{Propuesta que nos hacen llegar}
+
+\begin{itemize}
+    \item El pasado 14 de octubre se puso en contacto con nosotros \textit{Pablo Velasco Garrido}, Director de Programas de la \href{https://www.eoi.es}{Fundación EOI}, para proponernos lanzar un programa de formación específica en Python.
+    \item La EOI tiene como socios en Canarias a SPEGC, INTECH y FIFEDE.
+    \item El programa formativo sería enfocado a personas menores de 29 años y desempleadas y está inmerso en el \textit{Sistema Nacional de Garantía Juvenil}. Tendría una duración de entre 200 y 300 horas.
+    \item El objetivo de estos programas es reducir el \textit{``gap''} existente entre la formación reglada y la empresa.
+    \item Hay que desarrollar una guía de orientación pegadógica (\textit{GOP}) que contendrá la estructura del programa, contenidos, objetivos, secuenciación y temporalización.
+    \item Existe la figura de \textit{director del programa académico} que se encargará de desarrollar la GOP, buscar al profesorado para impartir los contenidos y establecer el calendario de aplicación.
+    \item Hay un módulo obligatorio en todos los programas que es el de \textit{empleabilidad} (\textit{soft-skills}). Hay una profesora que ya está buscada, quien se encarga de impartir dicho módulo.
+    \item Este programa debería contar con una matrícula de entre 12 y 15 asistentes para que salga adelante. Se pueden establecer requisitos de acceso (titulación universitaria, formación profesional, etc.)
+    \item La EOI se encarga de buscar el local/aula para impartir el programa.
+\end{itemize}
+
+\subsection*{Medidas acordadas}
+
+\begin{itemize}
+    \item Crear un listado de personas interesadas en impartir cursos/talleres/programas de formación en Python entre los miembros de la comunidad.
+    \item Seleccionar a aquellas personas más adecuadas para impartir este programa y dar respuesta a la EOI en cuanto al calendario de aplicación.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{20:30h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
