@@ -1,0 +1,105 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Junta Directiva \\ \textit{Python Canarias}}
+\date{\textbf{25 de noviembre de 2019}}
+\author{
+    Héctor Álvarez Alonso \and
+    Israel Santana Alemán \and
+    Juan Ignacio Rodríguez de León \and 
+    Sergio Delgado Quintero
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+Vía \textit{Google Hangouts}, siendo las \textit{20:00h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los miembros de la junta directiva de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Renovación de miembros de la junta directiva}
+
+Dada la inactividad de ciertos miembros de la junta directiva, se decide notificar a estas personas que ratifiquen su compromiso con la asociación, o en caso contrario, se den de baja como miembros del órgano de representación. Las personas afectadas por esta decisión son los cuatro vocales, a saber:
+
+\begin{itemize}
+    \item Jaime Iván Juanes Prieto.
+    \item José Lucas Grillo Lorenzo.
+    \item Víctor Raúl Ruiz Ruiz.
+    \item Víctor Suárez García.
+\end{itemize}
+
+De cara a la futura renovación de la junta directiva, se cree necesario la inminente puesta en marcha de un procedimiento para registrar socios/as. Hace tiempo que se viene desarrollando un procedimiento automático de alta de socios/as, pero aún no ha finalizado su implementación. Es por ello que se decide establecer un procedimiento manual mediante transferencia bancaria. Se habilitará una página en \textit{pythoncanarias.es} para la gestión de nuevos socios/as.
+
+\section{Análisis del CORE y grupos para gestión de eventos}
+
+En su día, cuando se montó el CORE, tenía el objetivo de servir como apoyo al desarrollo de eventos. Por ello se decidió crear un grupo de \textit{Telegram} como punto de encuentro y plataforma de comunicación. A día de hoy, después del crecimiento de la asociación y el desarrollo de eventos, la comunidad ha crecido y, con ella, las personas con las que podemos contar para la gestión de eventos.
+
+En estos últimos tiempos el CORE ha tenido una gran inactividad y consideramos conveniente reestructurarlo y darle otra finalidad. Así, este grupo pasará a ser el grupo de los socios y socias de Python Canarias. Se dará un tiempo prudencial a los miembros para que se den de alta como socios y socias.
+
+\section{Futuras acciones}
+
+En este punto se toman los siguientes acuerdos:
+\begin{itemize}
+    \item Formar grupos \textit{ad hoc} para cada evento en concreto, contando con personas de la comunidad que quieran colaborar e implicarse en el desarrollo del mismo.
+    \item Alternar la realización cada año del PyDay entre Tenerife y Gran Canaria, como evento insignia de la asociación.
+    \item Intentar montar eventos más modestos en islas menores.
+    \item Aunque los eventos sean pequeños o minoritarios, cobrar siempre algo en la entrada, para evitar las inscripciones ficticias.
+    \item Estudiar la viabilidad de eventos tipo \textit{OpenSpace}.
+\end{itemize}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{21:30h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
