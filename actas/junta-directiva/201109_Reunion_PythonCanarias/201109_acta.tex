@@ -1,0 +1,132 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Junta Directiva \\ \textit{Python Canarias}}
+\date{\textbf{9 de noviembre de 2020}}
+\author{
+    Héctor Álvarez Alonso \and
+    Israel Santana Alemán
+    Juan Ignacio Rodríguez de León \and 
+    Sergio Delgado Quintero \and
+}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+Vía \textit{Zoom}, siendo las \textit{18:00h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los miembros de la junta directiva de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\section{Lectura y aprobación, si procede, del acta anterior}
+
+Se aprueba el acta anterior.
+
+\section{Preparación de la asamblea general}
+
+El próximo 21 de noviembre a las 10:00h vía \textit{Google Meet} se celebrará la \textbf{asamblea general ordinaria} de la asociación. Se han repasado cada uno de los puntos del orden del día:
+
+\begin{enumerate}
+    \item Aprobación, si procede, de las cuentas económicas del ejercicio 2019. \\ \\
+    Héctor Álvarez se encargará de preparar una presentación sencilla sobre los gastos e ingresos que ha tenido la asociación en el ejercicio fiscal de 2019.
+
+    \item Aprobación, si procede, de la memoria anual de actividades del año 2019. \\ \\
+    Sergio Delgado se encargará de preparar un resumen de las actividades desarrolladas en el año 2019.
+    
+    \item Aprobación, si procede, del presupuesto para el año 2020. \\ \\
+    Aunque ya estamos finalizando el año, Héctor Álvarez se encargará de preparar una presentación sencilla sobre el presupuesto de 2020, incluyendo gastos e ingresos.
+    
+    \item Aprobación, si procede, del plan general de actuación para el año 2020. \\ \\
+    Aunque ya estamos finalizando el año, Sergio Delgado se encargará de preparar un documento con las actividades desarrolladas.
+
+    Aprovechando este punto, se trasladará a la asamblea general información sobre el evento que se está organizando para finales de enero de 2021 sobre \textit{Data Science}, en colaboración con \textit{R Canarias} y otras comunidades locales de Python. Igualmente se pedirá participación de socios/as en posibles propuestas para el próximo año.
+    
+    \item Modificación del artículo 2 de los estatutos. \\ \\
+    Se propondrá a la asamblea general la modificación del domicilio fiscal para hacerlo coincidir con el de la asesoría que tenemos actualmente. Esto redunda en la recepción de correo postal, teniendo en cuenta que no disponemos de ningún local propio.
+
+    \item Modificación del artículo 13 de los estatutos. \\ \\
+    Se propondrá a la asamblea general matizar este artículo que habla de publicidad de los datos de los/las socios/as en la web, para que contemple una ``posible verificación'' de su calidad de socio/a.
+    
+    \item Modificación del artículo 18.1 de los estatutos. \\ \\
+    Se propondrá a la asamblea general la supresión de la figura de vocal como parte del órgano de representación, dada la escasa participación de socios/as en la propia junta directiva.
+
+    \item Modificación del artículo 19.4 de los estatutos. \\ \\
+    Se propondrá a la asamblea general que la convocatoria de la asamblea general ordinaria se pueda realizar durante el primer cuatrimestre de cada año.
+
+    \item Modificación del artículo 24 de los estatutos. \\ \\
+    Se propondrá a la asamblea general eliminar la cuota de socio/a para Python España + Python Canarias. Asímismo se propondrá que los importes de las cuotas no figuren en los propios estatutos sino que sea una cuestión acordada cada año por la propia asamblea general.
+
+    Sergio Delgado consultará a la asesoría si esta modificación es factible.
+
+    \item Modificación del artículo 20 de los estatutos. \\ \\
+    Se propondrá a la asamblea general que el cambio de estatutos deba contar con tres cuartos de votos favorables, en vez de por \textit{mayoría simple} que es como se establece actualmente.
+
+    \item Renovación de cargos en la junta directiva. \\ \\
+    Héctor Álvarez manifiesta su voluntad de dejar la junta directiva como tesorero. Es por ello que se buscará en la asamblea general a alguna persona para que ocupe este cargo. La junta directiva expresa su interés de que sea una mujer y preferiblemente de la provincia de Las Palmas de Gran Canaria, de cara a mejorar la diversidad del órgano de representación y a potenciar la asociación en la provincia oriental.
+    Todo ello sin perjuicio de que cualquier candidatura a la junta directiva será tenida en cuenta y analizada.
+
+    La junta directiva cumple ahora dos años de mandato, lo que significa que le quedarían otros dos años más para finalizar los cuatro que establece el artículo 18.3 de los estatutos.
+
+    \item Ratificación de altas y bajas de socios y socias. \\ \\
+    Sergio Delgado presentará a la asamblea general un listado de altas y bajas de socios y socias hasta la fecha.
+
+    En este punto se plantea la necesidad de buscar alguna solución que ``facilite'' la gestión de las cuotas de los socios, ya que actualmente todo se hace de forma manual. Una posibilidad es implementar algún sistema automático de suscripción en la web (pagos recurrentes) mediante la pasarela de pago \textit{Stripe}.
+
+    \item Otra información de interés. \\ \\
+    Ningún acuerdo al respecto.
+
+    \item Sugerencias y preguntas. \\ \\
+    Ningún acuerdo al respecto.
+\end{enumerate}
+
+\section{Ruegos y preguntas}
+
+No hay ruegos ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{19:30h} en lugar y fecha arriba indicados.
+
+\begin{flushright}
+El secretario
+
+Sergio Delgado Quintero
+\end{flushright}
+
+\end{document}
