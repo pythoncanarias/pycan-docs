@@ -12,3 +12,5 @@
 *.kdbx
 *.synctex.gz
 .vscode
+*.fdb_latexmk
+*.fls
