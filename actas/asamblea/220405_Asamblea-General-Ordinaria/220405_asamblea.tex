@@ -1,0 +1,202 @@
+\documentclass[a4paper,12pt]{article}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{float}
+\usepackage{hyperref}
+\usepackage{tocloft}
+\usepackage{titling}
+\usepackage{eurosym}
+\usepackage{bookmark}
+
+\renewcommand{\labelitemi}{$\bullet$}
+\renewcommand{\labelitemii}{$\circ$}
+\renewcommand{\labelitemiii}{--}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\newcommand{\specialcell}[2][c]{%
+    \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}
+}
+
+\setlength{\droptitle}{-10em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+
+\hyphenation{Python-Canarias}
+\hyphenation{Py-Day}
+\hyphenation{Py-thon}
+
+\title{\huge \textbf{Acta de reunión} \\ Asamblea General Ordinaria \\ \textit{Python Canarias}}
+\date{\textbf{5 de abril de 2022}}
+\author{---}
+
+\begin{document}
+
+\renewcommand{\contentsname}{Orden del día}
+
+\maketitle
+
+\begin{enumerate}
+    \item Héctor Álvarez Alonso.
+    \item Israel Santana Alemán.
+    \item Ivelina Mirkova Blagoslavova.
+    \item Jesús Miguel Torres Jorge.
+    \item Juan Ignacio Rodríguez de León.
+    \item Manuel Padrón Martínez.
+    \item Raúl Marrero Rodríguez.
+    \item Rodolfo Illada.
+    \item Sara Báez García.
+    \item Sergio Delgado Quintero.
+    \item Wendolín Damián González.
+    \item Ángel Sánchez de la Cruz.
+\end{enumerate}
+
+Vía \textit{Google Meet}, siendo las \textit{18:00h (Atlantic/Canary)} de la fecha arriba indicada se reúnen los socios y socias de Python Canarias arriba indicados, a fin de tratar el siguiente orden del día:
+
+\tableofcontents
+
+\vspace{1cm}
+
+A sugerencia de la tesorera Sara Báez García, los puntos 1 y 3 se tratarán primero para mayor claridad.
+
+\section{Aprobación, si procede, de las cuentas económicas del ejercicio 2021}
+
+Presentadas y explicadas las cuentas económicas del ejercicio 2021, resumidas en el siguiente cuadro:
+
+\begin{center}
+    \begin{tabular}{ | l | r | }
+        \hline
+        \textbf{Resumen de cuentas económicas} & \textbf{2021} \\ 
+        \hline
+        Total Ingresos & 523,04\euro \\  
+        \hline
+        Total Gastos & -490,55\euro \\  
+        \hline
+        \hline
+        Diferencia & 32,39\euro \\  
+        \hline
+    \end{tabular}
+\end{center}
+
+Se aprueban las cuentas económicas por unanimidad de la asamblea.
+
+\section{Aprobación, si procede, de la memoria anual de actividades del año 2021}
+
+Se presentan las actividades desarrolladas durante el año 2021:
+
+\begin{itemize}
+    \item Debido a la pandemia no se ha podido desarrollar ningún evento presencial.
+    \item Se ha celebrado un \href{https://pythoncanarias.es/events/pybirrasdevops/}{PyBirras} en modalidad online el pasado 8 de julio de 2021. Este evento estuvo orientado a temática \textit{DevOps} y contó con 3 charlas técnicas y una mesa redonda. Participaron 8 ponentes con paridad entre hombres y mujeres.
+    \item Se ha participado en \href{https://hacktoberfestes.dev/#proyectos}{HacktoberfestES 2021} (octubre de 2021) con el proyecto de la página web de la asociación Python Canarias. Así, se ha conseguido implementar funcionalidades y arreglar bugs para un total de \href{https://github.com/pythoncanarias/pycan-web/pulls?q=is%3Apr+is%3Aclosed+label%3Ahacktoberfest}{23 Pull Requests}.
+\end{itemize}
+
+Se aprueba la memoria de actividades por unanimidad de la asamblea.
+
+\section{Aprobación, si procede, del presupuesto para el año 2022}
+
+Presentado y explicado el presupuesto para el año 2022, resumido
+en el siguiente cuadro:
+
+\begin{center}
+    \begin{tabular}{ | l | r | }
+        \hline
+        \textbf{Presupuesto} & \textbf{2022} \\ 
+        \hline
+        Total Ingresos & 436,09\euro \\  
+        \hline
+        Total Gastos & -334,61\euro \\  
+        \hline
+        \hline
+        Diferencia & 101,48\euro \\  
+        \hline
+    \end{tabular}
+\end{center}
+
+Héctor Álvarez pregunta por qué existe una diferencia de 1 céntimo de euro en concepto de ``cuotas de usuarios y afiliados'' entre 2021 y 2022. La tesorera Sara Báez explica que se debe a que una de las cuotas fue pagada vía PayPal y existe una comisión de por medio.\\
+
+Se aprueba el presupuesto por unanimidad de la asamblea.
+
+\section{Aprobación, si procede, del plan general de actuación para el año 2022}
+
+Se presentan las siguientes actividades:
+
+\begin{itemize}
+    \item \textbf{PyBirras Tenerife}: Sería un evento presencial a celebrar en la segunda quincena de junio de 2022. La idea es abrir un \textit{Call for papers} general y seleccionar 3 o 4 charlas. Se trataría de un evento informal y orientado a lo social.
+    \item \textbf{PyBirras Gran Canaria}: Sería un evento presencial a celebrar en el mes de septiembre/octubre de 2022. La idea es abrir un \textit{Call for papers} general y seleccionar 3 o 4 charlas. Se trataría de un evento informal y orientado a lo social.
+\end{itemize}
+
+Se aprueba el plan general de actuación por unanimidad de la asamblea.\\
+
+Aunque queda fuera de la programación de actividades para el año 2022, se habló de las siguientes propuestas de futuro:
+
+\begin{itemize}
+    \item Intentar organizar un \textbf{PyDay} presencial para abril de 2023. Aprovechar para celebrar la asamblea general ordinaria en este mismo evento.
+    \item Posible candidatura a \textbf{PyConES} 2024. Ideas para contactos organizativos: Cabildo de Tenerife, Cabildo de Gran Canaria, ULPGC, ULL, TLP Innova, SPEGC.
+\end{itemize}
+
+\section{Renovación de cargos en la junta directiva}
+
+Se traslada a la asamblea que en noviembre de 2022 se cumplen 4 años de la junta directiva fundadora de la asociación. Según los estatutos éste es el período establecido para los cargos designados aunque pueden ser reelegidos. En cualquier caso se abre la puerta a la entrada de cualquier socio o socia que quiera ingresar en el órgano de representación.\\
+
+No se produce ninguna renovación en la junta directiva.
+
+\section{Ratificación de altas y bajas de socios y socias}
+
+Desde la fundación de la asociación en noviembre de 2018 se han asociado 31 personas. A día de la redacción de esta acta se cuenta con 26 socios/as activos/as.\\
+
+Relación de altas y bajas de socios y socias durante el año 2021:
+
+\begin{center}
+    \begin{tabular}{ | l | r | }
+        \hline
+        \textbf{Altas} & \textbf{Bajas} \\ 
+        \hline
+        \hline
+        Alejandro Lorenzo Dávila & Carlos Blé Jurado \\  
+        \hline
+        Alfonso María Escolano Iturbe & Iván Hernández Cazorla \\  
+        \hline
+        Carlos Sosa Hernández & \\  
+        \hline
+        Eloy Pérez Reyes & \\  
+        \hline
+        Jorge López Pérez & \\  
+        \hline
+        Ramón Andrés Sánchez Acosta & \\  
+        \hline
+        \hline
+        6 & 2 \\  
+        \hline
+    \end{tabular}
+\end{center}
+
+Se ratifican las altas y bajas de socios y socias por unanimidad de la asamblea.
+
+\section{Sugerencias y preguntas}
+
+No hay sugerencias ni preguntas.
+
+% ================================================================================================
+
+\vspace{1cm}
+\hrule
+\vspace{3mm}
+
+Una vez tratados todos los puntos, se levanta la sesión cuando son las \textit{18:55h} en lugar y fecha arriba indicados.
+
+\vspace{1cm}
+
+\begin{table}[h]
+    \begin{tabular}{p{9cm}p{9cm}}
+        VºBº Presidencia & El secretario \\
+        \vspace{3cm} & \vspace{3cm} \\
+        Juan Ignacio Rodríguez de León & Sergio Delgado Quintero \\
+    \end{tabular}
+\end{table}
+
+\end{document}
