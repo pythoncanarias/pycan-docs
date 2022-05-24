@@ -1,0 +1,2 @@
+- Empresa: Impacto Visual Canarias.
+- Concepto: Pegatinas rectangulares logotipo + texto 8x3 laminadas (protector transparente).
